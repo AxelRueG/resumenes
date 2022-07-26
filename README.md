@@ -862,5 +862,34 @@ son ciclos vitales para el trabajo, un orden social.
 
 Estas relaciones configuran un espacio social atravesado por fuerzas antagonicas quilibrio/conflicto; reproduccion/cambio; individuo/sociedad.
 
+---
 
+# En que tipo de sociedad vivimos
 
+En una sociedad moderna una exigencia funadamental a los estudios, una disputa intelectual (como se hacen las cosas).
+
+Posiciones teoricas que indican en el presente las notas caracteristicas que distingen esa sociedad respecto de la sociedad anterior (o un estado avanzado de la sociedad anterior), dando las miradas (hipotesis) de que estamos en:
+- la sociedad post industrial (daniel bell, alain touraine)
+- la sociedad de la tecnologia (marshall mcluhan)
+
+**ecologia de saberes** derivanda de la gran ciencia, como la union del estado, la ciencia, las universidades y la industria.
+
+La sociedad postindustrial, cambio en la estructura social, economica, tecnologiaca y el trabajo.
+
+La sociedad industrial se caracteriza por la coordinancion de maquinas y hombres para la produccion de bienes. Esta se origino en torno al conocimiento para lograr el control social y la direccion de la innovacion y el cambio.
+
+**Conocimiento teorico** el principio axial de una nueva sociedad.
+
+**Tecnologia intelectual** sustitucion de juicios por algoritmos (incorporados a maquinas automaticas). Estando estrechamente ligadas al conocimiento teorico, incorporando una nueva clase de profecioneales (los tecnicos). Implicando el orden tecno-economico.
+
+Que pasa con la economia y la politica? la esfera tecno economica se volvera cada vez mas **tecnocratica** (todo con un caracter mas tecnico). Implicando a la universidad como una institucion central.
+
+**Tourine** discrepa un poco con la interpretacion del rol de la universidad de Bell. Para bell la cultura estaba organizada por una corriente modernisa y no pondero el paper de esta en la cultura.
+
+modernismo (de bel) implicaba la consideracion del individuo como unico, es profundamente critico de la vida burgesa y la educacion como expansion del yo.
+
+En el libro la sociedad post-industrial Tourine, el movimiento estudiantil toma la delantera en la sencivilidad hacia la contestacion, la vinvulacion de la educacion y la informacion sobre la produccion. El conflicto social, el nuevo papel de la universidad en el sistema de produccion.
+
+"el movimiento social antitecnocratico"
+
+**tecnocracia** segun tourine, es el poder ejercido en nombre del interes de los aparatos de produccion y desicion, politicos y economicos. la sociedad como el conjunto de medios sociales a utilizar.
