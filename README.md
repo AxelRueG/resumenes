@@ -576,4 +576,291 @@ la dificultad que entraña eñ convertirse en conocedores del mundo, esta dificu
 3. la constitucion de una pedagogia que organice la transmision del conocimiento. (pedagogia en el aspecto social, como se distribuye, como se preserva el conocimiento).
 4. constitucion de instituciones sociales, analizar y organizar la produccion de conocimiento genuino.
 
-la modernidad (segun algunos filosofos) a partir del siglo XVI
+La modernidad siglo XVI, segun algunos filosofos, se coloco el conocimiento como el gran problema filosofico y politicas de esta nueva sociedad.
+
+~~~ markdown
+**Bjorn Wittrock** plantea que la modernidad produjo un cambio espistemico fundamental
+~~~
+~~~ markdown
+**Brian Barnes** Para que la ciencia pudiera servir como base cultural de toda una forma de vida se la tenia que considerar producto de la educacion. No podia ser un simple medio para un fin, sino que habia de ser concebida en terminos de bienes intrinsecos.
+~~~
+
+Esto implica la ciencia como un dispositivo de verdad.
+
+Surgiendo (a mediados del siglo XIX) el concepto de una **unversidad cientifica** que establece un vinculo fuerte enseña y forma cuadros de investigacion.
+
+La consolidacion de las disiplinas meta-teoricas (que tenial al concoimiento y al conocimiento cientifico como su objeto de investigacion):
+- la filosofia de la ciencia.
+- la sociedad del conocimento.
+
+CTS es una respuesta a esta nueva configuracion social, plantea ver la _"responsabilidad social del ingeniero"_. planteando un nuevo proyecto pedagogico.
+
+como lidiar con el problema de como nos contituimos como conocedores del mundo:
+
+- una dimencion vinculada a las practicas epistemicas
+- una dimencion meta-teoriaca (nuevas concepciones de la naturaleza)
+- una dimencion pedagogica (nuevas expectativas del papel que juegan las CTI en el mundo)
+- dimencion institucional (universidad, agencias estatales y foros hibridos)
+- dimencion polita del conocimiento
+
+### raices experimentales 
+
+La hipotesis, implica la dificultad de explicar el mundo y lo que conlleva. 
+
+Estas dificultades tienen diferentes raices o fuentes, una raiz es la _exprencial_.
+
+La experiencia indica que los humanos estamos expuestos al acontecer, y las respuestas que elavoramos con dicho acontecer. Implicando una apertura con el mundo y una apertura con nosotros mismos que conforman.
+
+~~~ markdown
+**Gyorgy Lukacs** y **Walter Benjamin** plantearon el problema de esta doble condicion con la experimentacion: 
+- una desconeccion (con nosotros y con el mundo)
+- reificacion (pensar al mundo y lo que lo compone como una mercancia)
+~~~ 
+~~~ markdown
+**Michell Callon** plantea un ingeniero sociologo que comprende las condiciones de materialidad del mundo y su produccion.
+~~~ 
+~~~ markdown
+**Bruno Latour** plantea que conocer o ser sociologos y humanistas nos hacer mejores ingenieros.
+"un factor meramente tecnologico es una utopia, siempre hay un factor humano"
+~~~ 
+
+_"debemos conocer y articular el mundo material al que estamos expuestos"_.
+
+## La presentacion normativa del mundo
+
+Podemos acceder al mundo a partir de la **normativa**, como deberia ser el mundo (no implicando una separacion descriptiva).
+
+~~~ markdown
+**Oscar Versavsky** CTS implica el deseo de vivir en una sociedad mejor y hacer algo para que eso tenga unas posibilidades de ocurrir
+~~~
+
+Este autor tiene una mirada socialista _pueblo-centrica_. planteando un Cinetifico rebelde
+
+~~~ markdown
+**Almilcar Herrera** dice una sociedad sociales es una sociedad buena
+~~~
+
+Estos autores plantean que una buena sociedad es aquella: 
+- igualitaria 
+- paticipativa
+- autonoma
+- tiempo libre
+- compatible con su ambiente fisico.
+
+## Mas terminos a considerar
+
+### Saber controlado
+
+Implica una metodologia, con un conjunto de procedimientos que se siguen para producir conocimiento. Implicando en algunos casos el famoso metodo cientifico.
+
+El proceso de produccion como el conocimiento son sometidos a criticas (tambien metodologicas).
+
+Explicitar la metodologia usada para la obtencion de conocimiento, es fundamental en el saber controlado.
+
+~~~ markdown
+**negra Bell** poner en critica el feminismo blanco de Betty Friedan, con respecto a las minorias raciales.
+~~~
+
+### Conocimento genuino
+
+Implica tener una valoracion por un tipo de conocimiento, que permite acceso a los elementos basicos y ultimos del mundo.
+
+- como obtenerlo? las soluciones al problema del conocimineto son soluciones al problema de orden.
+- como transmitirlo? implica una dimension politica
+
+Siendo temas centrales en la vida social. 
+
+debemos notar la diferencia entre el conocimiento y la creencia, la ciencia y la pseudociencia.
+
+### Acudir a la experiencia
+
+"abiertos" al mundo, posee un papel en nuestro contexto con el mundo, activo fundamental para conocer el mundo. Poder dar forma a nuestra conciencia y nuestras visiones del mundo.
+
+## Los planes sociales trasados sobre CTI
+
+Implica una comprension mas densa de la CTI, conocer los trazadodes de planes como sus contenidos.
+
+
+
+### Cientificos, Tecnologos e Ingenieros
+
+Trazan planes suponiendo persistencias, elaborando una agenda interna a esa cominidades, tambien un conjunto de _valores asociados_ a sus practicas.
+
+### Los Estados
+
+Post 2da guerra mundial, un plan fue vincular la CTI a cuestiones de infraestructura de defensa y tambien a cuestiones economicas, iniciando el **complejo militar-industrial**.
+
+El estado impluso politicas para impulsar este sector, emergiendo una burocracia que atendiera y diseñara politicas. Buscando la creacion de cuadros de expertos para el gobierno en diferentes esferas.
+
+Dejandon en vista varias perspectivas teoricas
+- el rol que cumplen los expertos en la sociedad
+- el papel de estas esferas de manea unitaria 
+
+### La Empresa
+
+Institucion social, que hace trazamiento de planes sobre la existencia de CTI de una forma mas compleja que el estado (implusadas por el interes de ganancias).
+
+La libertad reclamada por la ciencia y los cinetificos es distinta a la de los ingenieros (originarios de la milicia, luego a manos civiles privadas). 
+
+"Los ingenieros no trabajan para humanos, sino para empresas que pagan sus sueldos". 
+
+Sin embargo, hubo un grupo, que pensaron y plantearon cuestiones orientadas a la contruccion de una buena sociedad.
+
+Las empresas tambien pasaron a construir CTI como aquello que colocar en el mercadoo, formas de "producir conocimiento como mercancia". 
+
+### Sociedad civil
+
+Grupo que opera fuera de las organizaciones empresariales y demas instituciones. 
+
+Tasando planes:
+- encontra del desarrollo CTI (ver el desarrollo como el causante de algo).
+- en pos de su uso, su experiencia etc.
+
+implicando que las maquinas/artefactos son politicos.
+
+## Mas terminos a considerar
+
+### Interes
+
+pretende: "captar la motivaicon de la accion social"
+
+Aplica a los individuos, pero aun mas a los colectivos como grupos de interes. Tambien puede ser economico,
+
+El concepto, se utiliza como modo de incorporar factores sociales para entender el modo en que las teorias se desarrollan y las evaluaciones a las que son sometidas.
+
+### Movimiento social
+
+Distan de otras formas de hacer politica, Es una **accion colectiva** que implica el cuestionamiento (politico, cultura, economico) del mundo social y sus vinculos con el mundo natural y el artificial.
+
+Las relacionadas a CTI inicialmente fueron movimientos ambientales ahora mas movimientos de las propias actividades CT, reconocido actualmenten como **polo activista del espacio CTS**
+
+### Determinismo tecnologico 
+
+Pretende captar una forma ideologica acerca de las relaciones entre CTS, genera un imaginario pregnante que infunde un quietismo en la ciudadania, _"si asi es asi debe ser"_ dejar de lado _"otro mundo posible"_.
+
+## Reflexividad
+
+facultad cognitiva, indagacion y analisis de lo que hacemos. _La modernidad reflexiva_ implica un momento especifico de las sociedades actuales. El cuestionamiento por parte del estado, la empresa y la sociedad civil. 
+
+podemos decir, la actividad cientifica, tecnologica e ingenieril se han vuelto mas reflexivas respecto de sus propias condiciones de produccion y apropiacion.
+
+~~~ markdown
+**Dominick Vink** en las facultades se introducen elementos de formacion de ciencias sociales. se cree que un poco de epistemologia es suficiente para educar a los jovenes cientificos; con un poco de etica bastara para afrontar los problemas sociales.
+~~~
+
+resultando ineficientes, haciendo evidente la necesidad de una formacion socio-cientifica efectiva.
+
+La moderinidad reflexiva traslado hacia los individuos los atributos que antes apostaban las instituciones.
+~~~ markdown
+**Dubet** _"los profecionales deben construir por si mismos sus relaciones sociales con los usuarios"_
+~~~
+
+### El contenido de la reflexivilidad
+
+la reflexividad como principio de produccion de las relaciones sociales.
+
+la CTS implica un contenido de reflexivilidad en las practicas profecionales. **Responsabilidad social**, una cuestion de etica y una cuestion de politica.
+
+### **Althusser**:
+
+El mayo frances, introduce la filosofia para cientificos, la espereciencia real de la practiva cientifica y la remodelizacion de la ciencia. Invitando a preguntarce:
+- ¿puede haber una estrategia y una tactica para la investigacion?
+- ¿puede haber una direccion para la investigacion?
+- ¿puede dirigice o por el contrario debe ser libre?
+- etc
+
+pudiendoce caracterizarce en:
+- problemas internos de cada ciencia.
+- problemas de relaciones entre las ciencias.
+- problemas producidos por el surgimento de nuevas ciencias.
+- problemas de la zona fronterizas.
+
+Luego plantea a que estas adquieran un caracter global como en importancia social. Los procesos de reflexivilidad se independizan de aquellos procesos sociales que la produjeron.
+
+Maquinaria social independientes de los cientificos, tecnologos e ingenieros. Sin embargo, la sociedad lo plantea como recursos utiles para que los participantes pueden tener control de las relaciones sociales en las que intervienen.
+
+## La critica
+
+La critica es posible cuando hay desacuerdo o disidencia, la critica se posiciona en esa disidencia.
+
+La critica es la operacion reflexica por exelencia, y la educuaion critica solo es posible en esos terminos. 
+
+**fuentes de indagacion** experiencia desagradable que sucita la queja y no cualquiera, ya que necesita un apoyo teorico y una retorica argumentativa.
+
+La critica posee dos niveles
+
+- nivel primario: el ambito de las emociones.
+- nivel secundario: reflexivo, teorico, argumentativo.
+
+~~~ markdown
+**Boltanski y Chiapello** la critica se plantea en dos cordenadas, aquello que denuncia y la virulencia con la que se la plantea
+~~~
+
+Emancipacion, la critica como momento de construccion de un proceso emancipatorio.
+
+CTS como asignatura pone en la reflexividad la movilizacion contextual y refinada de conceptos (la posibilidad de articulacion narrativa), implicando la transformacion del mundo.
+
+## Mas conceptos
+
+### Racionalidad instrumental
+
+La racionalidad en la modernidad se volvio una filosofia fundamental.
+
+Concepto que identifica las valuaciones que los humanos hacemos, en sentido descriptivo y en caracter normativo. La racionalidad de las creencais y en general al conocimiento se llama racionalidad epistemica o teoriaca
+
+Racionalidad practica, vinculada a la accion. Generalmente la tecnologia, la filosofia cuestiona esta mirada.
+
+### Democracia radical
+
+Surge de los movimientos sociales libertariosque toman auge en los 70's. Los activismos CTS plantean formas de democracia radical, una critica a la autoridad de la ciencia, la tecnologia y los expertos. Una radicalizacion de las instituciones por donde circulan las decisiones sociales en estas materias.
+
+---
+
+# A que llamamos sociedad
+
+Tiene diferentes consideraciones, que entran en disputas. La principal es si es una cosa o si solo existen los individuos que la hacen.
+
+En la materia identificamos a la sociedad como una entidad (cosa) que es irreducible a los agentes sociales que la conforman.
+
+_"hay cosas que existen solo porque creemos que existen"_.
+
+distingen entre tres mundos:
+- el mundo natural
+- el mundo artificial (artefactos y procesos, presente la idea de diseño).
+- el mundo social
+
+Sociedad, refiere al mundo hecho por humanos y a sus actividades.
+
+Entender la sociedad como un espacio establecido a partir de relaciones de:
+- politacas o de poder
+- experiencias o culturales
+- produccion o economicas
+
+## Las tres relaciones sociales fundamentales
+
+### Relaciones Politicas
+
+Las relaciones de poder son aquellas que hacen al gobierno y la constitucion de un orden social. Produciendo instituciones especificas (EL ESTADO).
+
+Organizan gran parte de las actividades politicas.
+
+### Relaciones de experiencia
+
+Son aquellas que hacen basicamente a la estructura simbolica o significante de una sociedad y organizan los modos en los que le damos significados a nuestras vidas.
+
+Organizan una zona de conflicto entre lo que no esta sucediendo (lo por venir) y las maneras consolidades que el gobierno nos ofrese para hacer frente a eso que nos sucede.
+
+Organizan maneras de pensar, espectativas de lo que esperar del mundo.
+
+### Relaciones de produccion
+
+Implica como se satisfacen las necesidades humanas.
+
+Las necesidades sociales no son una categoria natural, son un elemento constituido por relaciones politicas y culturales. Procesar esas necesidades en terminos de produccion y consumo.
+
+son ciclos vitales para el trabajo, un orden social.
+
+Estas relaciones configuran un espacio social atravesado por fuerzas antagonicas quilibrio/conflicto; reproduccion/cambio; individuo/sociedad.
+
+
+
