@@ -14,7 +14,7 @@ podemos pensarla como:
 
 **informatizacion** [1]: el uso de las computadoras (_maquina universal_ que depende de un software y de un hardware) e informatica en otras actividades de produccion.
 
-**hacking**: podemos verlo como una _actividad social_l que ezperimenta con los artefactos y sus funcionalidades.
+podemos ver el **hacking** como una _actividad social_ que experimenta con los artefactos y sus funcionalidades.
 
 ## Etapas de la tecnologia
 
@@ -23,60 +23,53 @@ podemos pensarla como:
   - visto como **produccion** (_propiamente dicha_)
 - uso
 
-> **Software libre** en concepto de **artefacto inacabado**, impicando un constante desarrollo.
+## Informatica y Sociedad
 
-# Informatica y Sociedad
+Dependera del **plan de accion** (funcionalidades basicas dispuestas por su diseño, _funcionalidad_), si los artefactos son diseñados en un marco de proteccion de su uso o si en cambio dejan lobre manipulacion, experimentacion y modificacion (_haking_).
 
-¿Como se relacionan?
-
-dependera si los artefactos son diseñados, en un marco de proteccion de su uso o si en cambio dejan lobre manipulacion, experimentacion y modificacion (_haking_). tambien se ven reflejados en los conceptos de **copyright** y **copyleft**. 
-
-> **politica** ciencia que trata del gobierno y la organizacion de las sociedades humanas especialmente los ESTADOS.
-
-[1] cuando vemos la relacion entre la informatica y la sociedad, tambien se informatiza el control de los agentes o sujetos. Alli surge el concepto/hipotesis de que vivimos en una **sociedad de control** (esto implica ver a la informatica como una tecnologia politica).
+Cuando vemos la relacion entre la informatica y la sociedad, tambien se informatiza el control de los agentes o sujetos. Alli surge el concepto/hipotesis de que vivimos en una **sociedad de control** (esto implica ver a la informatica como una tecnologia politica).
 
 ~~~ markdown
 **Giles Deleuze**: las maquinas expresan las formaciones sociales que las han originado y que las utilizan.
 ~~~
 
-Generalmente se utiliza el concepto de maquina=tecnologia. En los textos, se plantea como acciones destinadas a la produccion (artefacto=maquina).
+Generalmente se utiliza el concepto de maquina=tecnologia nosotros los difrenciamos (tomado artefacto=maquina).
 
-**plan de accion** funcionalidades basicas dsipuestas por su diseño (funcion propia).
+### Artefactos
 
-## Artefactos
+pantean una naturaleza dual: estructura fisica, funcionalidad atribuida. Esto implica que lo intencion (de uso) con la que fue producidad que puede no ser la misma que interpreta el usuario. Esto nos lleva a pensar en _la vida social de un artefacto_.
 
-pantean una naturaleza dual: estructura fisica, funcionalidad atribuida. Esto implica que lo intencion (de uso) con la que fue producidad puede no ser la misma que interpreta el usuario.
-
-Esto nos lleva a pensar en _la vida social de un artefacto_.
-
-**Proceso de diseño** es parte de la vida social de un artefacto.
+El **Proceso de diseño** es parte de la vida social de un artefacto.
 
 **Proceso de produccion** se ven dos modelos (respecto a la informatica) 
-
 - **software libre**, _tambien se nombra el consepto de **hardware libre**, que implusan el movimiento de **maquinas libres**_.
 - **software privativo**.
 
-> **tecnologia** como un conjunto de accions con el fin de transformar el medio con conocimientos cientificos
+> **tecnologia** como un conjunto de acciones con el fin de transformar el medio con conocimientos cientificos
 
-# Relacion Ciencia y Tecnologia
+~~~ markdown
+**Peter Kroes** los objetos tecnologicos tienen una naturaleza dual
+- Una estructura fisica, gobernadas por leyes fisicas.
+- Su propia funcion. Establecida por su contexto de la accion humana que se puede hacer con el, sin esto no es un artefacto.
+~~~
 
-podemos decir qur la tecnologia no es una ciencia aplicada
+Esto plantea que no solo basta incorporar explicaciones fisicas, sino tambien funcionales. implicando un proceso de construccion fisica y otro social.
+
+## Ciencia y Tecnologia
 
 ~~~ markdown
 **Ilkka NiiNilouto**: plantea que hay dos tipos de ciencias; ciencias que interpretan el mundo y ciencias que cambian al mundo.
 ~~~
 
-presta atencion a la **ciencia del diseño** que es parte de la que denomina **ciencia de lo artifical**.
+Podemos decir que la tecnologia no es una ciencia aplicada. Presta atencion a la **ciencia del diseño** que es parte de la que denomina **ciencia de lo artifical**.
 
-ofresce un esquema donde se muestra que la relacion de la ciencia y la tecnologia no siempre van en el mismo sentido:
+Niinilouto, ofresce un esquema donde se muestra que la relacion de la ciencia y la tecnologia no siempre van en e mismo sentido:
 
 | profesion | practica | arte | ciencia |
 |-|-|-|-|
 | medico | terapia | medicina | ciencias medicas |
-| politico | politica | politica | ciencias politicas |
-| atleta | deporte | atletismo | ciencias del deporte |
 
-## Infotmatica ¿ciencia o tecnologia?
+## Informatica ¿ciencia o tecnologia?
 
 ~~~ markdown
 **Ana Cuevas**: plantea tener dos grupos de tecnologos
@@ -84,19 +77,13 @@ ofresce un esquema donde se muestra que la relacion de la ciencia y la tecnologi
  - operarios: dar forma final al artefacto.
 ~~~
 
-plantea ademas el concepto de **ciencias ingenieriles**, resultado de las investigaciones cientificas. Las catacteristicas de estas cinecias se distingen en dos: la primera es la buqueda del conocimiento _(cognitivo)_; la segunda busca un conocimineot practico _(pragmetico)_.
+plantea ademas el concepto de **ciencias ingenieriles**, resultado de las investigaciones cientificas. Las catacteristicas de estas ciencias se distingen en dos: la primera es la buqueda del conocimiento _(cognitivo)_; la segunda busca un conocimineot practico _(pragmetico)_.
 
 ### Ciencias de la computacion
 
-para pensar en ciencia debemos primero platear, si hay un objeto de estudio para saber si hay ciencia. En esta ciencia se estudian todos los fenomenos que rodean a la computadora (mas alla de la fisica y algoritmia). Como plantean algunos autores la **computacion viva** haciendo que caiga en el concepto de **ciencia de lo artificial**.
+Para pensar en ciencia debemos primero platear, si hay un objeto de estudio. En esta ciencia se estudian todos los fenomenos que rodean a la computadora (mas alla de la fisica y algoritmia). Como plantean algunos autores la **computacion viva** haciendo que caiga en el concepto de **ciencia de lo artificial**.
 
-beneficiando el concocimiento cientifico a la tecnologia en:
-
-- la comprencion de  la naturaleza de los materiales con los que actua.
-- comprender la naturaleza de las transformaciones que son producidas.
-- comprender los resultados.
-- definir actividades y tiempos de ejecucion.
-- comprender el porque de las acciones que ejecutan.
+el concocimiento cientifico beneficia a la tecnologia en la comprencion de la naturaleza, de las transformaciones, de los resultados, en la definicion de actividades y el porque de las acciones que se ejecutan.
 
 ## Ciencia 
 
@@ -106,28 +93,22 @@ Produce conceptos y tramas conceptuales, como asi tambien un inventario de lo qu
 
 > **epistemologia**: parte de la filosofia que estudia los principios fundamentales, extenciones y metodos del conocimiento humano.
 
-es una actividad social _institucionalizada_, que implica, la produccion de conocimientos en funcion de un plan social.
-
-desde un punto de vista epistemico o cognitivo, es una actividad sicio-epistemica ya que involucra a la sociedad y el conocimiento.
+es una actividad social _institucionalizada_, que implica, la produccion de conocimientos en funcion de un plan social. Desde un punto de vista epistemico o cognitivo, es una actividad socio-epistemica ya que involucra a la sociedad y el conocimiento.
 
 **ciencia moderna** es matematica y experimental (una manera abstracta, conocer matematicamente al mundo), y tambien de una manera mas instrumental o interventora de acceder al mundo (cercano a lo empirico).
-
 
 ### Explicacion
 
 ~~~ markdown
-**Carl hempel**: la ciencia no solo explica el que de las coas, sino, tambien el porque.
+**Carl hempel**: la ciencia no solo explica el que de las cosas, sino, tambien el porque.
 ~~~
-
-esto implica factores de investigacion
-
+Implicando factores de investigacion:
 - practica: mejorar la posicion del hombre en el mundo 
 - epistemica: comprenderce a si mismo y el mundo
 
 Buscamos mostrar que lo epistemico es relevante para la tecnologia, _la explicacion es un logro epistemico (o cognitivo) pero no practico_.
 
 Para este autor la explicacion y la prediccion estan logicamente relacionadas, planteando 2 formas de saber cuando resulta esperable un fenomeno:
-
 - los conceptos y las configuraciones conceptules.
 - relaciones que mantienen el fenomeno con otros fenemoes o hechos.
 
@@ -137,45 +118,26 @@ Para este autor la explicacion y la prediccion estan logicamente relacionadas, p
 ~~~ markdown
 **Harry Putman** el exito de una explicacion implica, localizar el lugar de suceso en la estructura causal del mundo.
 ~~~
-~~~ markdown
-**Peter Kroes** los objetos tecnologicos tienen una naturaleza dual
-- Una estructura fisica, gobernadas por leyes fisicas.
-- Su propia funcion. Establecida por su contexto de la accion humana que se puede hacer con el, sin esto no es un artefacto.
-~~~
-
-Esto plantea que no solo basta incorporar explicaciones fisicas, sino tambien funcionales. implicando un proceso de construccion fisica y otro social.
 
 ### Prediccion
 
 La anticipacon del futuro, sobre bases de conociminetos disponibles, como hemos visto, puede ser planteada como un objetivo de la ciencia.
 
-~~~ markdown
-**Hans Reichenbach** predecir fenomenos del mundo... sobre bases solidas son los cometidos centrales de la ciencia.
-~~~
-~~~ markdown
-**Nicolas Rescher** cuanto mas informativa es una prediccion menos segura es (siendo el caso contrario mejor).
-~~~
-
-Podriamos decir que la ciencia y la tecnologia comparten un
-conjunto de valores respecto de la practica predictiva: precision, correccion, robustez. aunque dependiendo del contexto la ciencia no produce todo el conocimiento que se necesita al momento de actuar. _pudiendo se ver otro argumento de que la ciencia no es tecnologia aplicada_.
-
-Con la _informatica_ ocurre un proceso similar
+Podriamos decir que la ciencia y la tecnologia comparten un conjunto de valores respecto de la practica predictiva: precision, correccion, robustez. aunque dependiendo del contexto la ciencia no produce todo el conocimiento que se necesita al momento de actuar. _pudiendo se ver otro argumento de que la ciencia no es tecnologia aplicada_.
 
 ~~~ markdown
 **Casacuberta** y **Estany** la escuela de la igenieria (enseñar sobre cosas artificiales) busca crear artefactos con las caracteristicas deseadas y como diseñarlos.
 ~~~
-
 de aqui destacan que no solo la ingenieria se basa en el proceso de diseño.
 
 diferencias entre la ciencia tradicional y las _ciencia del diseño_ (pone los conocimientos disponibles en funcion de "la creacion de artefactos", no implica una relacion mas fuerte entre ciencia y tecnologia).
 
 ### Descubrimiento, creatividad e invencion
 
-La filosofia tradicional de la ciencia habia planteado que el problema
-del descubrimiento no era un tema central en la comprension de la ciencia.
+La filosofia tradicional de la ciencia habia planteado que el problema del descubrimiento no era un tema central en la comprension de la ciencia.
 
 ~~~ markdown
-**Hans Reichenbach** el descubrimineto escapa del analicis logico (no existe una maquina descubridora).
+**Hans Reichenbach** el descubrimineto escapa del analisis logico (no existe una maquina descubridora).
 ~~~
 ~~~ markdown
 **Gregorio Klimovsky** hay tipos de descubrimiento:
@@ -185,56 +147,40 @@ del descubrimiento no era un tema central en la comprension de la ciencia.
 ~~~
 _en algunos casos el descubrimiento tiene un grado de suposicion_
 
-**Descubrimiento**
+Naturalezas del **descubrimiento**:
 - en ciencia: actividad que da a conoser lo que hay en el mundo ignorado.
 - en tecnologia: producir cosas que de otro modo no estarian en el mundo.
 
 ### Experimentacion
 
 implica comprender la relacion entre tecnologia y ciencia experimental, como asi tambien la intervencion con el fin de conocer funcionamientos y estructuras.
-
 ~~~ markdown 
-**Rom Harré** 
-- ¿Por que realizamos experimentos? con el fin de averiguar cosas de la naturaleza.
+**Rom Harré** realizamos experimentos con el fin de averiguar cosas de la naturaleza.
 ~~~
 
-_la informatizacion nos otorga nuevas herramientas de indagacion, por ejemplo, los procesos de simulacion._
+De la **observacion** surge el concepto de **observador cientifico** (_"estar en el lugar y meneto indicado"_). Esto diferencia la observacion de la experimentacion (esta ultima se realiza en un ambiente tecnologico _relativamente_). 
 
-**Observacion**, de aqui surge el concepto de **observador cientifico**, esto consta de un porcentaje de suerte: _"estar en el lugar y meneto indicado"_. Esto diferencia la observacion de la experimentacion (esta ultima se realiza en un ambiente tecnologico _relativamente_). 
-
-**Instrumentos cientificos** pueden ser:
-
+Los **instrumentos cientificos** pueden ser:
 - de medicion
 - potenciadores de centidos
 - instrumentos que permitenn aislar elementos
 
-la ciencia usa los instrumentos (que son tecnologia) en la investigacion/experimentacion.
+La ciencia usa los instrumentos en la investigacion/experimentacion, en el laboratorio, donde se desarrollan e investigan y el uso de nuevos instrumentos para el desarrollo de sus actividades, implica la convergencia de intereces entre cientificos y tecnologos.
 
-~~~ markdown
-**Steven Shapin**: buscar la respuesta a preguntas contextuales de como fueron o son los lugares donde (laboratirio) se practica la ciencia experimental.
-~~~
-
-en el laboratorio, donde se desarrollan e investigan nuevos instrumentos para el desarrollo de sus actividades, implica la convergencia de intereces entre cientificos y tecnologos (por conveniencia, que no esta mal).
+### Informatizacion de practicas experimentales
 
 ~~~ markdown
 **Ian Hacking**: una parte de la experimentacion no apreciada es la creacion de fenomenos (a travez de medios tecnologicos), con el fin de explicar teorias.
 ~~~
+La iteraccion entre cientificos e informaticosm, implica el surguimiento de un nuevo campo socio-cognitivo. Los **Experimentos** requieren que se puedan replicar, y se puedan comparar los resultados, implicando la simulacion
 
-### Informatizacion de practicas experimentales
+> **Determinismo tecnologico**: supone que la informatizacion sucede por una adaptacion de los procesos sociales al artefacto, implicando que las tecnologias cambian a la sociedad. _(objeto de analisis de la materia)_
 
-la iteraccion entre cientificos e informaticosm, implica el surguimiento de un nuevo campo socio-cognitivo.
+## La adecuacion de la informatica/tecnologia y la sociedad
 
-**Experimentos** requieren que se puedan replicar, y se puedan comparar los resultados.
+La relacion entre la tecnologia y la socieda plantea la dualidad de que la tenologia impacta a la sociedad o la sociedad adecua a la tecnologia.
 
-**Determinismo tecnologico**: supone que la informatizacion sucede por una adaptacion de los procesos sociales al artefacto, implicando que las tecnologias cambian a la sociedad. _(objeto de analisis de la materia)_
-
-# La adecuacion de la informatica/tecnologia y la sociedad
-
-la relacion entre la tecnologia y la socieda plantea:
-- la tenologia impacta a la sociedad.
-- la sociedad adecua a la tecnologia.
-
-plantea una vida social de la tecnologia, tanto polita _(en su control)_ como pragmatica _(la adecuacion de quienes construyen/diseñan tecnologia)_.
+Plantea una vida social de la tecnologia, tanto polita _(en su control)_ como pragmatica _(la adecuacion de quienes construyen/diseñan tecnologia)_.
 ~~~ markdown
 **Wiebe Bijker**: planteamientos de las capas de adecuacion de la tecnologias
 - la funcionalidad
@@ -260,9 +206,7 @@ la necesidad de ser manejable, aprendizzaje social de como utilizarlo, implicand
 
 ### El Ethos
 
-hace referencia al conjunto de valores, habitos y creencias que sostienen una sociedad. 
-
-La desmantelacion del determinismo tecnologico implica que las tenologias se desarrollan en un marco de valores (que incluyen la esteitca la politica).
+Hace referencia al conjunto de valores, habitos y creencias que sostienen una sociedad. La desmantelacion del determinismo tecnologico implica que las tenologias se desarrollan en un marco de valores (que incluyen la esteitca la politica).
 
 ### Corporabilidad
 
@@ -348,6 +292,8 @@ pero no resistieron a la dictadura, a la vuelta de la democracia el panorama est
 la vuelta de la democraccia tambien trajo el surgimiento de carreras universitarias en casi todo el pais, junto a politas que busca implusar "nuevos talentos". Asi como tambien consolidar el sector de empresas informaticas con el nombre de TICs. Tambien surguieron cooperativas de produccion y de servicios informaticos, algunas de estas estan vinculadas al software libre.
 
 ### El movimiento del software libre
+
+> **Software libre** en concepto de **artefacto inacabado**, impicando un constante desarrollo.
 
 El software no es entendido solo en terminos de un artefacto tecnologico, tambien en terminos de un artefacto diseñado. Esto nos hacer pensar el software como un movimiento social.
 
@@ -534,7 +480,7 @@ son instrumentos diseñados con el fin de derivar conocimentos a partir de ellos
 - instrumentos que aumentan los sentidos.
 - los que permiten controlar y aislar los lementos de estudio.
 
-tambien incluyen metodos de recoleccion y analicis de datos.
+tambien incluyen metodos de recoleccion y analisis de datos.
 
 ### Esfera publica
 
@@ -866,30 +812,78 @@ Estas relaciones configuran un espacio social atravesado por fuerzas antagonicas
 
 # En que tipo de sociedad vivimos
 
-En una sociedad moderna una exigencia funadamental a los estudios, una disputa intelectual (como se hacen las cosas).
+Posiciones teoricas que buscan indican las notas caracteristicas que que en el presente distingen a esta sociedad respecto de la sociedad anterior (o si es un estado avanzado de la sociedad anterior). 
 
-Posiciones teoricas que indican en el presente las notas caracteristicas que distingen esa sociedad respecto de la sociedad anterior (o un estado avanzado de la sociedad anterior), dando las miradas (hipotesis) de que estamos en:
-- la sociedad post industrial (daniel bell, alain touraine)
-- la sociedad de la tecnologia (marshall mcluhan)
+Dando las miradas (hipotesis) de que estamos en:
+- la sociedad post-industrial (Daniel Bell, Alain Touraine)
+- la sociedad de la tecnologia (marshall McLuhan)
 
-**ecologia de saberes** derivanda de la gran ciencia, como la union del estado, la ciencia, las universidades y la industria.
+Tenemos una **ecologia de saberes** derivada de la gran ciencia, resultado del complejo militar-industrial y las universidades.
 
-La sociedad postindustrial, cambio en la estructura social, economica, tecnologiaca y el trabajo.
+Bell, plantea a la sociedad postindustrial, cambio en la estructura social, economica, tecnologiaca y el trabajo.
 
-La sociedad industrial se caracteriza por la coordinancion de maquinas y hombres para la produccion de bienes. Esta se origino en torno al conocimiento para lograr el control social y la direccion de la innovacion y el cambio.
+La sociedad industrial se caracteriza por la coordinancion de maquinas y hombres para la produccion de bienes. originada en torno al conocimiento para lograr el control social y la direccion de la inovacion y el cambio.
 
-**Conocimiento teorico** el principio axial de una nueva sociedad.
+**Conocimiento teorico** el principio axial de una nueva sociedad. Tenemos tambien la diferenciacion entre conocimineto intimo (resultado de la interacion) y el conocimiento simbolico (originado por la descripcion).
 
 **Tecnologia intelectual** sustitucion de juicios por algoritmos (incorporados a maquinas automaticas). Estando estrechamente ligadas al conocimiento teorico, incorporando una nueva clase de profecioneales (los tecnicos). Implicando el orden tecno-economico.
 
 Que pasa con la economia y la politica? la esfera tecno economica se volvera cada vez mas **tecnocratica** (todo con un caracter mas tecnico). Implicando a la universidad como una institucion central.
 
-**Tourine** discrepa un poco con la interpretacion del rol de la universidad de Bell. Para bell la cultura estaba organizada por una corriente modernisa y no pondero el paper de esta en la cultura.
+**Tourine** discrepa un poco con la interpretacion del rol de la universidad de Bell. 
 
-modernismo (de bel) implicaba la consideracion del individuo como unico, es profundamente critico de la vida burgesa y la educacion como expansion del yo.
+Para bell la cultura estaba organizada por una corriente modernisa y no pondero el paper de la universidad esta en la cultura. EL modernismo (de bell) implicaba la consideracion del individuo como unico, es profundamente critico de la vida burgesa y la educacion como expansion del yo.
 
-En el libro la sociedad post-industrial Tourine, el movimiento estudiantil toma la delantera en la sencivilidad hacia la contestacion, la vinvulacion de la educacion y la informacion sobre la produccion. El conflicto social, el nuevo papel de la universidad en el sistema de produccion.
+Para Tourine, el movimiento estudiantil, reemplazo a los movimientos sociales implusados por los obreros, tomando la delantera en la sencivilidad hacia la contestacion (junto a la mirada obrera), la vinvulacion de la educacion y la informacion sobre la produccion. El conflicto social, el nuevo papel de la universidad en el sistema de produccion.
 
 "el movimiento social antitecnocratico"
 
-**tecnocracia** segun tourine, es el poder ejercido en nombre del interes de los aparatos de produccion y desicion, politicos y economicos. la sociedad como el conjunto de medios sociales a utilizar.
+La **tecnocracia** para tourine, es el poder ejercido en nombre del interes de los aparatos de produccion y desicion, politicos y economicos. la sociedad como el conjunto de medios sociales a utilizar.
+
+Estudiantes de carreras "desplazadas" tubieron la oportunidad de plantearce en una pocision critica hacia el sistema unicersitario y principalmente al sistema social. rechazando los roles de poder establecidos.
+
+### Marshall McLuhan
+
+Pasar de lo mecanico a lo electrico, plantea que nos llevaria a un nuevo mundo, "la tecnologia como extension del cuerpo".
+
+Plantea una sociedad de la tecnologia, donde todo esta en constante transformacion del mundo, poniendo en analisis todo lo que respecta a nuestro mundo y a nuestra vida.
+
+Siendo una posicon determinista (determinismo tecnologico). donde podemos pensar "las tecnologias como fuerza arrolladora del cambio social".
+
+las instituciones educativas estan asociadas a las tecnologias.
+
+el cambio de los hombres por las tecnologias.
+
+## La teoria de la sociedad del conocimiento
+
+El principal autor en analisis de esta teoria es Stehr. 
+
+A partir de las formulaciones de la sociedad post-industrial, surgieron mas teorias, una de ellas es la **sociedad del conocimiento**, que pretende ofrecer una comprencion del mundo, a traves de los principios epistemicos.
+
+## La revuelta democratica
+
+La sociedad del conocimento es visto como una revitalizacion democratica.
+
+"como hay accion politica basada en el conocimiento, tambien hay una resistencia basada en le conocimiento".
+
+### Activismo
+
+El activismo se organiza entorno al interes de volver publico un problea. Contemporaneamente, pone la CTI en su agenda como tema publico, volviendolo un objeto de atencion y analisis (reflexion) implicando una politizacion.
+
+Siendo una forma de actuar en la esfera publica:
+~~~ markdown
+**Vallejos** plantea al activismo moderno como: "inventa y moviliza (utiliza) conceptos sofisticados para producir y encausar la deliveracion publica y la accion politica"
+~~~
+la transformacion del mundo depende de manera radical de los conceptos empleados para pensar ese mundo. 
+
+la concexion del activismo con:
+- la revuleta (remper, hacer, remoemorar)
+- la irrupcion en el escenario que fija el concenso y organiza los limites de la disidensia.
+~~~ markdown
+**Habernas** el mundo social como un espacio comunicativo, donde la ciudadania delibera, construye el concenso y administra el diseño.
+~~~
+El planteamiento de que vivimos en dos comunidades: la local y la de razonamiento. conlleva al concepto de **cosmopolitismo** implicando que los ciudadanos no solo deliberan sobre su pais sino sobre el mundo (ser un ciudadano del mundo). favoreciendo la internacionalizacion/globalizacion, llevando a una nuevas viciones de escalas politicas.
+
+El activismo cientifico-tecnologico-profesional, surge de pensar que **todo es politico**, toda actividad humana implusa el concenso o disenso, incluyendo a la naturaleza. La CTI, se ve politizada por los artefactos que producen y su impacto en la sociedad, asumiendo una agencia social. Junto a los cti (el cientifico revelde), que disrumpen con los modelos clasicos, implicando hacer _ciencia politizada_.
+
+**Activismo Epistemico** es el que produce y moviliza el conocimiento. _"el desarrollo de conceptos sofisticados de como entender los problemas"_
