@@ -222,6 +222,7 @@ la tecnologia convivencial debe estar adecuadamente limitada, no abrumar con su 
 ~~~
 ~~~ markdown 
 **Sheila Jasanoff**: el cresiente distanciamiento entre productores y usuario final. implica que la tecnologia (informatica) tenga un distanciamiento cognitivo.
+~~~
 > _"todos somos expertos en alguna cosa y no-experto en muchas otras"_.
 
 mitcham identifica a partir de Illich un estructura axiologica, la tecnoligia perse (vs la tecnologia como medio):
