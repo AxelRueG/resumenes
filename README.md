@@ -623,49 +623,90 @@ Estas relaciones configuran un espacio social atravesado por fuerzas antagonicas
 
 ---
 
-# En que tipo de sociedad vivimos
+# La sociedad del conocimiento
 
-Posiciones teoricas que buscan indican las notas caracteristicas que que en el presente distingen a esta sociedad respecto de la sociedad anterior (o si es un estado avanzado de la sociedad anterior). 
+## En que tipo de sociedad vivimos
 
-Dando las miradas (hipotesis) de que estamos en:
-- la sociedad post-industrial (Daniel Bell, Alain Touraine)
-- la sociedad de la tecnologia (marshall McLuhan)
+a partir del siglo XVII, el reconocimiento que se vive en una nueva sociedad que plantean una exigencia intelectual fundamental a los estudiosos, tienen que explicar la especificidad o la peculiaridad de esa sociedad respecto de una sociedad anterior, incluso si el estado de sociedad sobre el que se está teorizando es un estado transicional o si constituye ya una nueva sociedad. 
 
-Tenemos una **ecologia de saberes** derivada de la gran ciencia, resultado del complejo militar-industrial y las universidades.
+En la materia nos centramos en tres: 
+- la hipótesis de la sociedad postindustrial (Daniel Bell y Alain Touraine) 
+- la sociedad de tecnología (Marshall McLuhan). 
 
-Bell, plantea a la sociedad postindustrial, cambio en la estructura social, economica, tecnologiaca y el trabajo.
+Estas tres posturas muestran el creciente papel que la ciencia y el conocimiento científico tienen en el mundo social.
 
-La sociedad industrial se caracteriza por la coordinancion de maquinas y hombres para la produccion de bienes. originada en torno al conocimiento para lograr el control social y la direccion de la inovacion y el cambio.
+### SOCIEDAD POST-INDUSTRIAL. - DANIEL BELL (1960~)
 
-**Conocimiento teorico** el principio axial de una nueva sociedad. Tenemos tambien la diferenciacion entre conocimineto intimo (resultado de la interacion) y el conocimiento simbolico (originado por la descripcion).
+Bell plantea que en los próximos años (actualidad) veremos la emergencia de lo que llama "sociedad post-industrial". representando un cambio en la estructura social (economía, tecnología y el sistema de trabajo), y sus consecuencias según las diferentes configuraciones políticas y culturales de las sociedades.
 
-**Tecnologia intelectual** sustitucion de juicios por algoritmos (incorporados a maquinas automaticas). Estando estrechamente ligadas al conocimiento teorico, incorporando una nueva clase de profecioneales (los tecnicos). Implicando el orden tecno-economico.
+Bell plantea que la sociedad industrial se caracteriza por la coordinación de máquinas y hombres para la producción de bienes. 
 
-Que pasa con la economia y la politica? la esfera tecno economica se volvera cada vez mas **tecnocratica** (todo con un caracter mas tecnico). Implicando a la universidad como una institucion central.
+La sociedad post-industrial se organiza en torno al conocimiento para lograr el control social y la dirección de la innovación y el cambio. El conocimiento teórico se convertirá en un principio axial de la nueva sociedad. vinculada con la preeminencia de la ocupación de la clase profesional y técnica.
 
-**Tourine** discrepa un poco con la interpretacion del rol de la universidad de Bell. 
+Otra hable de "el surgimiento de una nueva tecnología intelectual". Esta tecnología intelectual está asociada con la incorporación del modo de proceder científico a la toma decisiones en ambientes típicamente complejos. _"Una tecnología intelectual es la sustitución de juicios intuitivos por algoritmos (normas para la solución de problemas)"_.
 
-Para bell la cultura estaba organizada por una corriente modernisa y no pondero el paper de la universidad esta en la cultura. EL modernismo (de bell) implicaba la consideracion del individuo como unico, es profundamente critico de la vida burgesa y la educacion como expansion del yo.
+También plantea una revolución en las demás esferas de la sociedad nombrandolo "el orden tecnoeconomico". La esfera económica se volverá cada vez más tecnocrática: _las decisiones vinculadas a la producción y los negocios tendrán progresivamente un carácter técnico_. Esta condición establece el reemplazo de la institución central del orden social: la fábrica, por la Universidad.
 
-Para Tourine, el movimiento estudiantil, reemplazo a los movimientos sociales implusados por los obreros, tomando la delantera en la sencivilidad hacia la contestacion (junto a la mirada obrera), la vinvulacion de la educacion y la informacion sobre la produccion. El conflicto social, el nuevo papel de la universidad en el sistema de produccion.
+### SOCIEDAD POST-INDUSTRIAL. - ALAIN TOURAINE (1960~)
 
-"el movimiento social antitecnocratico"
+Se podría decir que Bell no ponderó (para Touraine) el papel de la Universidad en lo que a cultura respecta. Bell, plantea la cultura organizada por la corriente modernista; una posición crítica al ideal de vida burgués que hacía funcionar la esfera tecnoeconómica. Bell definía al modernismo como un movimiento en el que el yo pasaba a primer plano. Lo que le faltó a Bell en cuánto a este ideal modernista es como organizaba la vida de las universidades y pasaba también a conformar sus ideales políticos. Mientras que la esfera tecnoeconómica asociaba la educación a la tecnocracia y a la estructura del empleo de la nueva clase de trabajadores.
 
-La **tecnocracia** para tourine, es el poder ejercido en nombre del interes de los aparatos de produccion y desicion, politicos y economicos. la sociedad como el conjunto de medios sociales a utilizar.
+Las revueltas estudiantiles hacen pensar a Touraine que está ocurriendo un reemplazo de los movimientos sociales que son capaces de contestar el impulso del poder de los aparatos de decisión económica y política. Touraine describe:
 
-Estudiantes de carreras "desplazadas" tubieron la oportunidad de plantearce en una pocision critica hacia el sistema unicersitario y principalmente al sistema social. rechazando los roles de poder establecidos.
+> "Uno de los aspectos del Movimiento de Mayo más importante para el futuro es que ha mostrado que no era en los grandes sectores, ... Fue en los sectores económicamente más avanzados, en los gabinetes de estudio y, naturalmente, en la Universidad, donde aparecieron los movimientos más innovadores y más radicales."
 
-### Marshall McLuhan
+Touraine plantea que esta situación de que el movimiento estudiantil (universitario) sea el que toma la delantera tiene que ver con que en la sociedad post-industrial la educación y la información están más vinculadas que antes al terreno de la producción.
 
-Pasar de lo mecanico a lo electrico, plantea que nos llevaria a un nuevo mundo, "la tecnologia como extension del cuerpo".
+Las observaciones de Touraine hacen visibles las tensiones hacia el interior del sistema universitario. Para muchos estudiantes la Universidad es el medio de acceso "a la categoría de cuadro técnico." Quienes percibían esta situación no parecían estar en conflicto:
 
-Plantea una sociedad de la tecnologia, donde todo esta en constante transformacion del mundo, poniendo en analisis todo lo que respecta a nuestro mundo y a nuestra vida.
+> "…los elementos mejor dispuestos para la acción política no se encuentran en las disciplinas más profesionales."
 
-Siendo una posicon determinista (determinismo tecnologico). donde podemos pensar "las tecnologias como fuerza arrolladora del cambio social".
+Esta posibilidad de quedar desintegrados del proyecto tecnocrático hacía posible que los estudiantes pudieran lanzar una crítica no sólo al sistema universitario sino fundamentalmente al sistema social en su conjunto.
 
-las instituciones educativas estan asociadas a las tecnologias.
+### LA SOCIEDAD DE TECNOLOGÍAS. - MARSHALL MCLUHAN
 
-el cambio de los hombres por las tecnologias.
+Mcluhan plantea a las tecnologías como indicadores de futuro, pero también como modificadores de la sociedad. En sus propias palabras comunica: 
+
+> "_la tecnología eléctrica_ - está remodelando y reestructurando cada uno de los aspectos de nuestra vida. Todo está en cambio y está cambiando dramáticamente."
+
+Esta posición de McLuhan la entenderemos como determinista, una forma de determinismo tecnológico. Lo interesante es que la incorporación de las tecnologías
+en las vidas de las masas, sobre todo norteamericanas, parecía empujar al determinismo: **las tecnologías eran la fuerza arrolladora del cambio social**. Por eso es que las tecnologías eléctricas eran creadoras de nuevos mundos.
+
+las instituciones educativas estan asociadas a las tecnologias. el cambio de los hombres por las tecnologias.
+
+## La teoría de la sociedad del conocimiento
+
+**Nico Stehr** plantea que el surgimiento de esta nueva sociedad no se dio en un proceso revolucionario (a diferencia de lasociedad industrial) sino que va construyéndose paulatinamente en un largo proceso. En palabras del propio Stehr:
+
+> "La era de la sociedad industrial está llegando a su fin; En el horizonte se divisa un nuevo orden social que se basa en el conocimiento."
+
+hace más de 50 años que se "divisa un nuevo orden social" pero no termina de desaparecer el orden social que emergió de la revolución industrial. Stehr recupera la idea de que el orden social industrial necesitaba _agentes seguidores de reglas_. Las instituciones más importantes del orden social industrial -el Estado, la Iglesia y el Ejercito- garantizaban que las reglas se explicitaran: racionalización y disciplinamiento. Esta sociedad se presenta en garantizar la producción de un trabajador que aguantara que repitiera un proceso sin mas implicaciones tecnicas o cognitivas.
+
+La idea de racionalización de Stehr, es similar a la de Manheim:
+
+> "…Es posible dividir cualquier proceso social en una esfera racionalizada, que consiste en procedimientos establecidos y rutinarios, la sociedad moderna tiene la tendencia a incluir todo cuanto fuere posible dentro del campo de lo racional..."
+
+La acción solo quedaba reservada a situaciones resguardadas de esa tendencia de racionalizar todo (el arte el espacio por excelencia). El nuevo orden social emerge cuando la acción se vuelve una tendencia. El pasaje de la sociedad industrial a la sociedad del conocimiento puede entenderse como la reconquista de la agencia social.
+
+Stehr sostiene que tiene que analizarce el concepto de conocimiento y desarrollar uno que permita pues entender la dinámica de esta sociedad como sociedad del conocimiento. Stehr sostiene que el conocimiento es capacidad para la acción. Al mismo tiempo habilita a pensar que el acceso al conocimiento es una fuente de jerarquía y de estratificación social y por ende un identificador de clase. Además, define "El conocimiento por supuesto puede ser objetivado, esto es, la apropiación intelectual de cosas."
+
+A partir de la cita anterior podemos establecer una distinción en el conocimiento: 
+- el conocimiento íntimo de las cosas en sí (sucede a partir de la frecuentación que vamos conociendo).
+- el conocimiento simbólico de las cosas (ocurre cuando accedemos a los mismos no por contacto directo sino a partir de las descripciones) .
+
+Lo que indica Stehr es que en las modernas sociedades del conocimiento cada vez más el conocimiento está objetivado (hay descripciones de los objetos) y que esta manera de conocer los objetos es la que se valora más. El acceso a estas descripciones de los objetos es lo que Stehr llama "Apropiación intelectual" de la naturaleza.
+
+El conocimiento objetivado al constituir un recurso cultural fundamental de la sociedad se vuelve una fuerza de estratificación social y a la vez un espacio de conflicto. Esto da en cuenta las maneras desiguales en las que grupos sociales o agentes sociales acceden a los recursos generados por la sociedad. La hipótesis de Stehr es que el acceso al conocimiento es un nuevo principio de estratificación. 
+
+Stehr caracteriza este nuevo orden social basado en el conocimiento como 
+
+> "En la sociedad moderna, lo novedoso es el gran número de profesiones que exigen un trabajo basado en el conocimiento, mientras que van en rápido descenso las actividades que demandan pocas aptitudes cognitivas, es decir, intelectuales."
+
+El acceso al conocimiento es parte fundamental del debate de las sociedades actuales, la democracia debe discutir la democratización del conocimiento, Como sostiene Stehr, el conocimiento socialmente disponible es capaz de desestabilizar las relaciones sociales existentes. Este es el núcleo estructural de la nueva sociedad del conocimiento en tanto produce dos consecuencias importantes: el conocimiento amplía la capacidad de los pequeños grupos para actuar y genera fragilidad social.
+
+La moderna sociedad del conocimiento es una sociedad frágil porque el conocimiento científico no es capaz de producir una objetividad a prueba ni de críticas sociales, ni de catástrofes sociales. 
+
+Los grupos sociales se polítizan a partir de lo que yo llamo activismo epistémico: una clara consciencia de que para intervenir en la vida pública se necesita producir conocimiento que ponga en cuestión a el conocimiento. Como Stehr plantea, el aumento de nuestra capacidad para decir no es una limitación importante para que la principal institución (el Estado) pueda asegurar el orden social, otro indicio de la fragilidad de la sociedad.
 
 ## La revuelta democratica
 
