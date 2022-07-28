@@ -215,24 +215,14 @@ la union de las tres anteriores. La tecnologia se articula con regimenes del con
 ### La estructura axiologica de la cienia 
 
 > **axiologia**: rama filosofica que estudia la naturaleza de los valores y juicios valorantes
-
 ~~~ markdown
 **Mitcham**: ver la perspectiva del usuario final sobre el software libre. 
 El usuario no experto se siente inutil, incapaz de hacer nada. la tecnologia debe ser comprencible para los usuarios.
 la tecnologia convivencial debe estar adecuadamente limitada, no abrumar con su presencia.
 ~~~
-
-> _"todos somos expertos en alguna cosa y no-experto en muchas otras"_.
-
-muchos movimientos plantean como see debe diseñar la tecnologia.
-
-~~~ markdown 
-**Illich**: muchas tecnologias comienzan un medio para un fin espesifico pero este fin causa un fenomeno de contraproductividad.
-~~~ 
 ~~~ markdown 
 **Sheila Jasanoff**: el cresiente distanciamiento entre productores y usuario final. implica que la tecnologia (informatica) tenga un distanciamiento cognitivo.
-~~~ 
-
+> _"todos somos expertos en alguna cosa y no-experto en muchas otras"_.
 
 mitcham identifica a partir de Illich un estructura axiologica, la tecnoligia perse (vs la tecnologia como medio):
 - lo nuevo es mejor
@@ -246,90 +236,60 @@ y propone una estructura alternativo, La tecnologia debe ser:
 - simple
 
 mitcham ve la diferencia entre los que prefiren una estructura y otra segun el tipo de formacion de los mienbros de la comunidad del software libre.
-
 ~~~ markdown
-**stallnam**  lo central son los valores pol´ıticos y luego los valores tecnol´ogicos: m´as libertad que funcionalidad
+**stallmann** lo central son los valores politicos y luego los valores tecnologicos: mas libertad que funcionalidad
 ~~~
 
-# Socio-Historia de la Informatica
+## Socio-Historia de la Informatica
 
 El **capitalismo** implico la desposecion de habilidades y destresas humanas hacian maquinas, estas maquinas son propiedad del dueño de la fabrica.
 
-Post 1945 (terminada la 2da guerra mundial) se empezo a referir como computadora a una maquina, originalmente las computadora eran mujeres empleadeas en el manejo de maquinas de calculo. La Guerra impulso **la gran ciencia** (ex. proyecto manhatam), necesitando del computo a gran escala en corto tiempo.
-
-Las primeras computadoras estaban conformadas por programa, memoria, procesador e interfaces (entradas y salidas). FORTRAN es uno de los primeros lenguajes de programacion.
+Post 1945 (terminada la 2da guerra mundial) se empezo a referir como computadora a una maquina, originalmente las computadora eran mujeres empleadeas en el manejo de maquinas de calculo. La Guerra impulso **la gran ciencia**, necesitando del computo a gran escala en corto tiempo.
 
 > La informatica es toda actividad cognitiva o tecnica para construir una maquina que en primera intancia calcula. es la actividad de produccion de una _maquina universal_ (procesadora de simbolos).
 
-la historia de la informatica puede verse desde distintas opticas:
-
-- la historia de las maquinas.
-- la historia de la informatica como una disiplina autonoma.
-- desde la creacion de carreras y titulaciones.
-- la informatizacion de otras actividades.
-- de las empresas
-
-todas ponen en vistadiferentes aspectos (parciales pero importanets en si).
-
-_a la catedra le interesa principalmente las cuestiones vinculadas a la constitucion de la informatica como disiplina academica_
+la historia de la informatica puede verse desde distintas opticas, todas ponen en vista diferentes aspectos (parciales pero importanetes en si). _a la catedra le interesa principalmente las cuestiones vinculadas a la constitucion de la informatica como disiplina academica_
 
 ### La informatica en argentina
 
 Podemos decir que el centro de la aparicion de la informatica en la Argentina esta dentro del _instituto de calculo_ (UBA) con la _MERCURY_, Junto a la creacion del CONICET y la creacion de la carrera "Computador Cientifico".
 
-el ingles Cicely Popplewell dio el primer curso de "programacion automatica" del pais en 1961. Esta maquina fue una de las primeras que utilizaba el lenguage de programacion AUTOCODE (1952).
-
-El institudo de calculo luego desarrollo un lenguage de programacion mas potente, ante la necesidad de hacer calculos mas complejos, el cual denominaron COMIC _(complilador del instituto de calculo)_ a mediados de los 70's.
+El institudo de calculo desarrollo un lenguage de programacion mas potente, ante la necesidad de hacer calculos mas complejos, el cual denominaron COMIC a mediados de los 70's.
 
 La carrera de computador cientifico se basaba en la formacion de cadro intelectuales que pudieran asistir a los investigadores. Surgiendo el problema de que muchos estudiantes que empezaban a trabajar en el instituto se desvinculaban de sus carreras y no se recibian.
 
 Tambien, ubieron corrientes que trataron de hacer una computadora argentina como en la universidad de Bahia Blanda _(universidad nacional del sur)_, en la facultad de ingenieria de la UBA o la empresa FATE _(fabrica argentina de telas engomidadas)_ , que asumio el proyecto de crear una computadoora llamada _serie 1000_. Junto a la informatizacion de la ingenieria, y de otras actividades, surgio la necesidad de promover la independencia tecnologica como pilar del desarrollo economico y social del pais.
 
-La independecia de un pais debe estar acompañada de un plan de independencia tecnologica, una nueva forma de hacer ciencia y una nueva forma de hacer tecnologia.
+La independecia de un pais debe estar acompañada de un plan de **independencia tecnologica**, una nueva forma de hacer ciencia y una nueva forma de hacer tecnologia.
 
-pero no resistieron a la dictadura, a la vuelta de la democracia el panorama estructural de la informatica habia cambiado mucho vislumbrandoce que seriamos un pais vinculado al desarrollo de software.
-
-la vuelta de la democraccia tambien trajo el surgimiento de carreras universitarias en casi todo el pais, junto a politas que busca implusar "nuevos talentos". Asi como tambien consolidar el sector de empresas informaticas con el nombre de TICs. Tambien surguieron cooperativas de produccion y de servicios informaticos, algunas de estas estan vinculadas al software libre.
+pero no resistieron a la dictadura, a la vuelta de la democracia el panorama estructural de la informatica habia cambiado mucho vislumbrandoce que seriamos un pais vinculado al desarrollo de software. La vuelta de la democraccia tambien trajo el surgimiento de carreras universitarias en casi todo el pais, junto a politas que busca implusar "nuevos talentos". como tambien consolidar el sector de empresas informaticas, surguiendo cooperativas de produccion y de servicios informaticos.
 
 ### El movimiento del software libre
 
 > **Software libre** en concepto de **artefacto inacabado**, impicando un constante desarrollo.
 
-El software no es entendido solo en terminos de un artefacto tecnologico, tambien en terminos de un artefacto diseñado. Esto nos hacer pensar el software como un movimiento social.
-
-Implica un colectivo social que toma el desarrollo del software con cierto _interer_, que implica 
--valores
+El software no es entendido solo en terminos de un artefacto tecnologico, tambien en terminos de un artefacto diseñado. Esto nos hacer pensar el software como un movimiento social. Un colectivo social que toma el desarrollo del software con cierto _interes_, que implica valores:
+- politico
+- tecnologico
   - transparencia 
   - libertad 
   - eficacia
   - autonomia
-- politico
-- tecnologico
 - cultural
 - etc
 
-el surgimiento de la interseccion de dos modelos culturales:
-- la cultura de los movimientos juveniles universitarios
-- la cultura propia de las practicas academicas
+A mediados de los 80's surge el concepto de **capitalismo cognitivo** (el saber es un bien economico que hay que proteger). La creatividad y libertad se convirtieron en valores de mercado. El complejo militar-industrial implicando el secretismo y confidencialidad, en torno al concepto de propiedad privada.
 
-a mediados de los 80's surge el concepto de **capitalismo cognitivo** (el saber es un bien economico que hay que proteger). La creatividad y libertad se convirtieron en valores de mercado. La vida academica (en informatica) se organizon con un dominio epistemico (ciencia, ingenieria y diseño) mas usuarios y programadores fisicos, matematicos. Emerge una comunidad en el que circulaba el conocimineto, al mismo tiempo empezaron a surgir segmentos en terminso de la especializacion.
+De la vida academica (en informatica) se organizon con un dominio epistemico (ciencia, ingenieria y diseño) mas usuarios y emerge una comunidad en el que circulaba el conocimineto, al mismo tiempo empezaron a surgir segmentos en terminso de la especializacion.
 
-~~~ markdown
-**Akera**: plantea la "ecologia del conocimiento" (formas de interactuar con el conocimiento)
-~~~
-
-El complejo militar-industrial implicando el secretismo y confidencialidad, en torno al concepto de propiedad privada.
-
-La historia de la informatica es una negociacion entre tres culturas (area academica, institucional, politica militar-industrial).
+La historia de la informatica es una negociacion entre tres culturas (area academica, institucional, politica militar-industrial) implicando una ecologia de saberes.
 
 _los movimientos sociales no tienen un creador, solo establecen formas de liderazgo_
 
 La soberania tecnologica es una de las formas de ver la interacion del software libre con respecto al modelo propietario y el derecho de autor. GNU _(GNU no es unix)_ es una respuesta del este movimiento.
-
 ~~~ markdown
 **tanembaum** un OS crea una maquina extendida con la cual interactuamos de manera mas semejante a nuestra forma de pensar, desvinculandonos del hardware.
 ~~~
-
 > el avance no es lineal, no siempre se pasa a un sistema mas eficiente
 
 el software libre dispuso la dirupcion del modelo privativo, politizando la relacion con la informatica y sentando valores:
@@ -354,14 +314,9 @@ En la juventud las primeras concepciones del mundo y la sencibilidad hacia él, 
 
 Junto al movimiento okupa (forma no hegemonica de autorepresentacion), en "el laboratorio" como un centro social donde se podia desarrollar y entender otras formas de vida (con sus problemas). dejaron de ver la informatica como una profecion, pasando a ser una informatica vinculadas a las ideas, referidas a procesos sociales donde los agentes asumen una vision del mundo.
 
-~~~ markdown
-**Stallman** La libertad es anterio a la comodidad
-~~~
-
 **_Nodo50_** es un proyecto de proveer internet, sin animo de lucro a movimientos sociales, lugar donde pueden fluir los proyectos politicos. La informatica y el internet son parte de la a tecnopolitica: un pensamiento politico aplicado al uso y a la construccion de las nuevas tecnologia. Buscando estructurar el uso de internet pero no su construccion.
 
 **sindominio.net** busca una forma alternativa de habitar el ciberespacio (una forma antagonica) con una base en el software libre como garantia de "aprendizaje reciproco".
-
 - privatizar el conocimiento es matar a la comunidad (soberania y libertad)
 - la complegidad de hardware libre, implica el proceso de creacion y desarrollo. (actulmente podemos contar con arduino y raspberry pi)
 
@@ -373,51 +328,37 @@ La soberania teconologica implica al **sofware libre**, **hardware libre** y el 
 
 El internet tiene un origen militar, lo que implica un choque con el concepto de libertar, junto con las universidades. 
 
-el desarrollo de internet forma parte de la **ecologia de saberes**, es decir no es una historia que pueda contarce a partir de un unico hilo. En el contexto de la Guerra Fria genera un espacio de desarrollo tecnologico y cientifico, La universidades no se mantienen al margen (sin enbargo movimientos internos se reusaron a someterce a estos intereser) pero otro componente de la red relevante es que esta modelada por el vinculo del complejo militar-industrial a los cuales interned respondia a sus intereses.
+el desarrollo de internet forma parte de la **ecologia de saberes**, es decir no es una historia que pueda contarce a partir de un unico hilo. Internet respondio a esos intereses.
 
 Internet es el resultado de una ecologia compleja en la cual la "informatica autonoma y alternativa" tuvo un papel importante. Esto nos lleva a poner en duda el hecho de que "internet cambio la sociedad" sino que esta es el resultado de un proceso de creacion donde intervinieron muchos agentes. sitando a **Margarita Padilla** _"la internet es un espacio de experimentacion para nuestra sociedad y esa experimentacion plantea de manera fundamental vinculos entre la informatica y la sociedad"_.
 
 ### Altermundi
 
-Es un colectivo activista reunido entorno a una ONG, que presenta el concepto de las redes comunitarias libres en conceptos de:
+Es un colectivo activista reunido entorno a una ONG, que buscan reducir la barrera tecnologica para la realizacion de redes comunitarias libres acompañada de la perspectiva social en conceptos de:
 - **desarrollo** propieda colectiva, gestion social, diseño accesible.
 - **diseño** libre uso, libre transito, neutralidad.
 - **mantenimiento** distribuida, escalable, bajo costo.
 
-Esto implica un diseño de software y hardware para hacer la red, implicando el empoderamiento popular a partir de la apropiacion de la tecnologia mediante la colaboracion. chocando con el concepto de internet como una conexion de maquinas que ocultan la materialidad socio-tecnica.
-
-Estos ideales politicos empezo a tomar fuerzas en lo que se llamo _foro social mundial_ "la pata tecnologica de ese otro mundo posible" (a lo que denominaron hacer internet).
+Esto implica un diseño de software y hardware para hacer la red, implicando el empoderamiento popular a partir de la apropiacion de la tecnologia. Estos ideales politicos empezo a tomar fuerzas en lo que se llamo _foro social mundial_ "la pata tecnologica de ese otro mundo posible" (a lo que denominaron hacer internet).
 
 **Hacer la red** implicando
 - diseño de software y hardware para hacer la red.
 - diseño de modos de transmitir de saberes para montar una red.
 - diseño de intervenciones asociativos y en el estado para garantizar su crecimiento.
 
-el proyecto de _libre router_ es el nucleo que tiene que ver con como las comunidades despliegan sus propias infraesturcturas para su propia red, conectando a los que no lo estan, haciendo que las redes comunitarias deben desarrollar una infraestructura acorde a las necesidades.
-
-**Altermundi** busca reducir la barrera tecnologica para la realizacion de estas redes, implicando que la perspectiva tecnologica debe ir acompañada de la perspectiva social (sociotecnoco).
+El proyecto de _libre router_ es el nucleo que tiene que ver con como las comunidades despliegan sus propias infraesturcturas para su propia red, haciendo que las redes comunitarias deben desarrollar una infraestructura acorde a las necesidades.
 
 # Cuestiones de genero: Emancipacion y Experimentacion Tecnologica
 
-vamos mas alla de la mujer, ya que las marcas de genero van mas alla de varon y mujer. El movimiento feminista, puso en movimiento hacer una distincion basica entre entre biologia, sexualidad y roles sociales.
+Vamos mas alla de la mujer, ya que las marcas de genero van mas alla. El movimiento feminista propone una distincion entre entre biologia, sexualidad y roles sociales.
 
-~~~ markdown 
-**Haraway** plantea que la categoria de genero, en tanto concepto teorico-politico, tienen un ambito de aplicacion en las sociedades que han pensado y participado del debate en torno a la opresion de las mujeres y las disidencias sexules.
-~~~ 
-
-adquiriendo una doble dimension
+Adquiriendo una doble dimension
 - descriptivo (los modos en que los marcos sociales definen los roles)
 - politico (porque es puesto para la denuncia y como proyecto de libertad)
 
-como instrumento politico establece una plataforma para plantear el nucleo de toda politica: **libertad**. implicaondose como un intrumento para la lucha contra la dominacion o represion.
+La cuestion de genero en la informatica (y en la tecnologia) pone en visibilidad como esta y la ciencia son parte del mecanismo social de prodiccion de destinos y normas (relacionadas a lo masculino). implicado que tien que haber un cambio radical en la informatica tal y como se desarrollo hasta ahora. 
 
-la cuestion de genero en la informatica (y en la tecnologia) pone en visibilidad como esta y la ciencia son parte del mecanismo social de prodiccion de destinos y normas (relacionadas a lo masculino). implicado que tien que haber un cambio radical en la informatica tal y como se desarrollo hasta ahora. 
-
-una experiencia que se analiza es la de margarita padilla desde la cooperativa Dabne, donde se busca acercar a las mujeres a la tecnologia en el proyecto ADAS (mujeres que crean, programan, teclean, transforman)
-
-~~~ markdown
-**Helen longino**: debemos pensar como operan muestras categorias para permitir o negar que quienes vivimos en esta sociedad podamos participar de ella de manera plena
-~~~
+el proyecto ADAS (margarita padilla) busca acercar a las mujeres a la tecnologia.
 
 ---
 
@@ -431,91 +372,47 @@ tenemos cuatos rostros o polos
 
 Estos polos no actuan de una manera convergente y articulada. Implicando un conglomerado heterogeneo e inestable (cada polo pone en cuestion a los demas) de la perspectiba de la CTS, no basta con decir que es un campo interdiciplinario o multidiciplinario.
 
-## que buscamos en la materia
-
-la materia tiene como objetivo poner a los estudiantes en contacto con:
+Buscamos como objetivo, en la materia, poner a los estudiantes en contacto con:
 - saberes academicos que organizan conceptos, narrativas y explicaciones.
 - escenarios de disputas en la que se ven afectadas mundos sociales donde la CTI es un factor decicivo.
-- los problemas gubernamentales, en realcion a la CTI que incluyen de
-manera fundamental el tema de la educacion.
+- los problemas gubernamentales, en realcion a la CTI que incluyen de manera fundamental el tema de la educacion.
 - explotar el modo en que la esfera publica exige un porque de los construciones de los procesos democraticos.
-
-buscando que el estudiante:
-- entienda el mundo actual y como CTI juegan en el 
-- identificar los planes sociales trazados sobre la ing
-- entender las posibilidades en la que se pueden desplegar nuestros trabajos.
 
 ## terminologia
 
-### cencepto
+> **Concepto** El desarrollo para capturar de interes o funciones que interesan. Se desarrollan para dotar ciertas organizacion o estructura al mundo, productos de la actividad espistemica.
 
-El desarrollo para capturar de interes o funciones que interesan. Se desarrollan para dotar ciertas organizacion o estructura al mundo, productos de la actividad espistemica.
+> **Explicaciones** La explicacion cientifica, es una actividad epistemica qeu pone en coneccion (causal o conceptual) dos o mas acontecimientos y se interesa por mostrar el sentido de esta conexion y el alcance de la misma
 
-### Explicaciones 
+> **Narrativa** implica un relato, es un concepto abstacto de la actividad cientifica. postula una estructura que organiza lo que interesa: temporalidad (unico desarrollo y cierre), espacialidad, axiologia (axiomas, valorativa).
 
-La explicacion cientifica, es una actividad epistemica qeu pone en coneccion (causal o conceptual) dos o mas acontecimientos y se interesa por mostrar el sentido de esta conexion y el alcance de la misma
+> **Estructura axiologica** busca plantear cuestiones de valor implicando la _neutralidad narrativa_ de la ciencia. aunque en los ultimos años la estructura valorativa de la ciencia, implica una practica constituida por valores. El cocepto de _polucion_ incorpora la valoracion en la descripcion e introduce la relacion de pureza/peligro en el relato de las tecnologias, implicando que la narrativa pone en crisis los valores que el mercado pone acerca de las tecnologias.
 
-### Narrativa
+> **Instrumentos epistemicos** son instrumentos diseñados con el fin de derivar conocimentos a partir de ellos, interactuando con el objeto de estudio.
+> - instrumentos de medidas.
+> - instrumentos que aumentan los sentidos.
+> - los que permiten controlar y aislar los lementos de estudio.
+>
+>tambien incluyen metodos de recoleccion y analisis de datos.
 
-implica un relato, es un concepto abstacto de la actividad cientifica. postula una estructura que organiza lo que interesa: temporalidad (unico desarrollo y cierre), espacialidad, axiologia (axiomas, valorativa).
+> **Esfera publica** se diferencian en dos esferas: publica y privada. La esfera publica implica el ambito en el que las sociedades deliberan y toman decisiones sobre lo que interesa, procesando las relaciones de poder.
+>
+> _mirada feminista lo privado es publico, en critica a esta diferenciacion_
 
-### Estructura axiologica 
+> **Estado**
+> - es un conjunto de instituciones manejadas por personal propio y el surgimiento de una burocracia.
+> - estan localizdas en un territorio geograficamente delimitado.
+> - monopoliza la elaboracion de las reglas dentro de su territorio.
 
-busca plantear cuestiones de valor
+> **Sociedad civil** proviene del ciudadano, para la CTS, el planteamiento de las posibles acciones limitadas en las agencias gubernamentales, una esfera social que reclama una autonomia respecto del estado
 
-~~~ markdown
-**Christine Kosgaard** el hecho mas asombroso de la vida humana es que tenemos valores
-~~~
-
-**neutralidad narrativa** de la ciencia. aunque en los ultimos años la estructura valorativa de la ciencia, implica una practica constituida por valores.
-
-**polucion** incorpora la valoracion en la descripcion e introduce la relacion de pureza/peligro en el relato de las tecnologias.
-
-Implicando que la narrativa pone en crisis los valores que el mercado pone acerca de las tecnologias.
-
-### Instrumentos epistemicos
-
-son instrumentos diseñados con el fin de derivar conocimentos a partir de ellos, interactuando con el objeto de estudio.
-- instrumentos de medidas.
-- instrumentos que aumentan los sentidos.
-- los que permiten controlar y aislar los lementos de estudio.
-
-tambien incluyen metodos de recoleccion y analisis de datos.
-
-### Esfera publica
-
-se diferencian en dos esferas: publica y privada.
-
-la esfera publica implica el ambito en el que las sociedades deliberan y toman decisiones sobre lo que interesa, procesando las relaciones de poder
-
-_mirada feminista lo privado es publico, en critica a esta diferenciacion_
-
-### Estado 
-
-- es un conjunto de instituciones manejadas por personal propio y el surgimiento de una burocracia.
-- estan localizdas en un territorio geograficamente delimitado.
-- monopoliza la elaboracion de las reglas dentro de su territorio.
-
-### Sociedad civil
-
-proviene del ciudadano, para la CTS, el planteamiento de las posibles acciones limitadas en las agencias gubernamentales.
-
-una esfera social que reclama una autonomia respecto del estado
-
-### Gobierno
-
-un aspecto de la actividad politica. dirigir o regir sobre uno o sobre los otros, la idea moderna de facultad que ejerce tanto sobre el hombre como no humano.
+> **Gobierno** un aspecto de la actividad politica. dirigir o regir sobre uno o sobre los otros, la idea moderna de facultad que ejerce tanto sobre el hombre como no humano.
 
 ## CTS en el mundo actual
 
-la sociologia del conocimiento, que los agentes sociales disponen del conocimiento del mundo en el que viven, pero es fragil.
-- raices epistemicas.
-- raices experimentales.
-- raices psiquicas.
-
 ### raices epistemicas
 
-la dificultad que entraña eñ convertirse en conocedores del mundo, esta dificultad fue enfrentada en cuatro dimenciones
+la dificultad que entraña el convertirse en conocedores del mundo, esta dificultad fue enfrentada en cuatro dimenciones
 
 1. las practicas epistemicas perse, reglas y procedimientos explisitamentes definidas, objetivos y metas explicitas de igual forma. "resolucion cientifica -> una nueva manera de conoceer"
 2. la indagacion constante y sistematica del **conocimiento genuino** acerca del mundo (¿como se lo obtiene?, ¿su alcance?, ¿como se lo presenta?).
@@ -531,18 +428,11 @@ La modernidad siglo XVI, segun algunos filosofos, se coloco el conocimiento como
 **Brian Barnes** Para que la ciencia pudiera servir como base cultural de toda una forma de vida se la tenia que considerar producto de la educacion. No podia ser un simple medio para un fin, sino que habia de ser concebida en terminos de bienes intrinsecos.
 ~~~
 
-Esto implica la ciencia como un dispositivo de verdad.
-
-Surgiendo (a mediados del siglo XIX) el concepto de una **unversidad cientifica** que establece un vinculo fuerte enseña y forma cuadros de investigacion.
-
-La consolidacion de las disiplinas meta-teoricas (que tenial al concoimiento y al conocimiento cientifico como su objeto de investigacion):
-- la filosofia de la ciencia.
-- la sociedad del conocimento.
+Esto implica la ciencia como un dispositivo de verdad. Surgiendo (a mediados del siglo XIX) el concepto de una **unversidad cientifica** que establece un vinculo fuerte enseña y forma cuadros de investigacion. La consolidacion de las disiplinas meta-teoricas (que tenial al concoimiento y al conocimiento cientifico como su objeto de investigacion).
 
 CTS es una respuesta a esta nueva configuracion social, plantea ver la _"responsabilidad social del ingeniero"_. planteando un nuevo proyecto pedagogico.
 
-como lidiar con el problema de como nos contituimos como conocedores del mundo:
-
+Como lidiar con el problema de como nos contituimos como conocedores del mundo:
 - una dimencion vinculada a las practicas epistemicas
 - una dimencion meta-teoriaca (nuevas concepciones de la naturaleza)
 - una dimencion pedagogica (nuevas expectativas del papel que juegan las CTI en el mundo)
@@ -551,9 +441,7 @@ como lidiar con el problema de como nos contituimos como conocedores del mundo:
 
 ### raices experimentales 
 
-La hipotesis, implica la dificultad de explicar el mundo y lo que conlleva. 
-
-Estas dificultades tienen diferentes raices o fuentes, una raiz es la _exprencial_.
+La hipotesis, implica la dificultad de explicar el mundo y lo que conlleva. Estas dificultades tienen diferentes raices o fuentes, una raiz es la _exprencial_.
 
 La experiencia indica que los humanos estamos expuestos al acontecer, y las respuestas que elavoramos con dicho acontecer. Implicando una apertura con el mundo y una apertura con nosotros mismos que conforman.
 
@@ -569,7 +457,6 @@ La experiencia indica que los humanos estamos expuestos al acontecer, y las resp
 **Bruno Latour** plantea que conocer o ser sociologos y humanistas nos hacer mejores ingenieros.
 "un factor meramente tecnologico es una utopia, siempre hay un factor humano"
 ~~~ 
-
 _"debemos conocer y articular el mundo material al que estamos expuestos"_.
 
 ## La presentacion normativa del mundo
@@ -579,14 +466,9 @@ Podemos acceder al mundo a partir de la **normativa**, como deberia ser el mundo
 ~~~ markdown
 **Oscar Versavsky** CTS implica el deseo de vivir en una sociedad mejor y hacer algo para que eso tenga unas posibilidades de ocurrir
 ~~~
+Este autor tiene una mirada socialista _pueblo-centrica_. planteando un Cientifico rebelde
 
-Este autor tiene una mirada socialista _pueblo-centrica_. planteando un Cinetifico rebelde
-
-~~~ markdown
-**Almilcar Herrera** dice una sociedad sociales es una sociedad buena
-~~~
-
-Estos autores plantean que una buena sociedad es aquella: 
+Una buena sociedad es aquella: 
 - igualitaria 
 - paticipativa
 - autonoma
@@ -595,56 +477,33 @@ Estos autores plantean que una buena sociedad es aquella:
 
 ## Mas terminos a considerar
 
-### Saber controlado
+> **Saber controlado** Implica una metodologia, con un conjunto de procedimientos que se siguen para producir conocimiento. Implicando en algunos casos el famoso metodo cientifico.
+>
+> El proceso de produccion como el conocimiento son sometidos a criticas (tambien metodologicas).
+>
+> Explicitar la metodologia usada para la obtencion de conocimiento, es fundamental en el saber controlado. (pensar en negra bell)
 
-Implica una metodologia, con un conjunto de procedimientos que se siguen para producir conocimiento. Implicando en algunos casos el famoso metodo cientifico.
+> **Conocimento genuino** Implica tener una valoracion por un tipo de conocimiento, que permite acceso a los elementos basicos y ultimos del mundo.
+> - como obtenerlo? las soluciones al problema del conocimineto son soluciones al problema de orden.
+> - como transmitirlo? implica una dimension politica
+> 
+> Siendo temas centrales en la vida social. Debemos notar la diferencia entre el conocimiento y la creencia, la ciencia y la pseudociencia.
 
-El proceso de produccion como el conocimiento son sometidos a criticas (tambien metodologicas).
-
-Explicitar la metodologia usada para la obtencion de conocimiento, es fundamental en el saber controlado.
-
-~~~ markdown
-**negra Bell** poner en critica el feminismo blanco de Betty Friedan, con respecto a las minorias raciales.
-~~~
-
-### Conocimento genuino
-
-Implica tener una valoracion por un tipo de conocimiento, que permite acceso a los elementos basicos y ultimos del mundo.
-
-- como obtenerlo? las soluciones al problema del conocimineto son soluciones al problema de orden.
-- como transmitirlo? implica una dimension politica
-
-Siendo temas centrales en la vida social. 
-
-debemos notar la diferencia entre el conocimiento y la creencia, la ciencia y la pseudociencia.
-
-### Acudir a la experiencia
-
-"abiertos" al mundo, posee un papel en nuestro contexto con el mundo, activo fundamental para conocer el mundo. Poder dar forma a nuestra conciencia y nuestras visiones del mundo.
+> **Acudir a la experiencia** la experiencia implica que estamos "abiertos" al mundo, jugando un papel en nuestro contexto con el mundo. Poder dar forma a nuestra conciencia y nuestras visiones del mundo.
 
 ## Los planes sociales trasados sobre CTI
 
 Implica una comprension mas densa de la CTI, conocer los trazadodes de planes como sus contenidos.
 
+**Cientificos, Tecnologos e Ingenieros** Trazan planes suponiendo persistencias, elaborando una agenda interna a esa cominidades, tambien un conjunto de _valores asociados_ a sus practicas.
 
-
-### Cientificos, Tecnologos e Ingenieros
-
-Trazan planes suponiendo persistencias, elaborando una agenda interna a esa cominidades, tambien un conjunto de _valores asociados_ a sus practicas.
-
-### Los Estados
-
-Post 2da guerra mundial, un plan fue vincular la CTI a cuestiones de infraestructura de defensa y tambien a cuestiones economicas, iniciando el **complejo militar-industrial**.
-
-El estado impluso politicas para impulsar este sector, emergiendo una burocracia que atendiera y diseñara politicas. Buscando la creacion de cuadros de expertos para el gobierno en diferentes esferas.
+**Los Estados** Post 2da guerra mundial, vinculan la CTI a cuestiones de infraestructura de defensa y tambien a cuestiones economicas, iniciando el **complejo militar-industrial**. Impluso politicas para impulsar este sector, emergiendo una burocracia que atendiera y diseñara politicas. Buscando la creacion de cuadros de expertos para el gobierno en diferentes esferas.
 
 Dejandon en vista varias perspectivas teoricas
 - el rol que cumplen los expertos en la sociedad
 - el papel de estas esferas de manea unitaria 
 
-### La Empresa
-
-Institucion social, que hace trazamiento de planes sobre la existencia de CTI de una forma mas compleja que el estado (implusadas por el interes de ganancias).
+**La Empresa** como una institucion social, que hace trazamiento de planes sobre la existencia de CTI de una forma mas compleja que el estado (implusadas por el interes de ganancias), construyendola como aquello que colocar en el mercadoo, _"producir conocimiento como mercancia"_. 
 
 La libertad reclamada por la ciencia y los cinetificos es distinta a la de los ingenieros (originarios de la milicia, luego a manos civiles privadas). 
 
@@ -652,13 +511,7 @@ La libertad reclamada por la ciencia y los cinetificos es distinta a la de los i
 
 Sin embargo, hubo un grupo, que pensaron y plantearon cuestiones orientadas a la contruccion de una buena sociedad.
 
-Las empresas tambien pasaron a construir CTI como aquello que colocar en el mercadoo, formas de "producir conocimiento como mercancia". 
-
-### Sociedad civil
-
-Grupo que opera fuera de las organizaciones empresariales y demas instituciones. 
-
-Tasando planes:
+La **Sociedad civil** que opera fuera de las organizaciones empresariales y demas instituciones. trasan planes:
 - encontra del desarrollo CTI (ver el desarrollo como el causante de algo).
 - en pos de su uso, su experiencia etc.
 
@@ -666,34 +519,18 @@ implicando que las maquinas/artefactos son politicos.
 
 ## Mas terminos a considerar
 
-### Interes
+> **Interes** pretende: "captar la motivaicon de la accion social". Aplica a los individuos, pero aun mas a los colectivos como grupos de interes. Tambien puede ser economico. El concepto, se utiliza como modo de incorporar factores sociales para entender el modo en que las teorias se desarrollan y las evaluaciones a las que son sometidas.
 
-pretende: "captar la motivaicon de la accion social"
+> **Movimiento social** Distan de otras formas de hacer politica, Es una **accion colectiva** que implica el cuestionamiento (politico, cultura, economico) del mundo social y sus vinculos con el mundo natural y el artificial. Las relacionadas a CTI inicialmente fueron movimientos ambientales ahora mas movimientos de las propias actividades CT, reconocido actualmenten como **polo activista del espacio CTS**
 
-Aplica a los individuos, pero aun mas a los colectivos como grupos de interes. Tambien puede ser economico,
-
-El concepto, se utiliza como modo de incorporar factores sociales para entender el modo en que las teorias se desarrollan y las evaluaciones a las que son sometidas.
-
-### Movimiento social
-
-Distan de otras formas de hacer politica, Es una **accion colectiva** que implica el cuestionamiento (politico, cultura, economico) del mundo social y sus vinculos con el mundo natural y el artificial.
-
-Las relacionadas a CTI inicialmente fueron movimientos ambientales ahora mas movimientos de las propias actividades CT, reconocido actualmenten como **polo activista del espacio CTS**
-
-### Determinismo tecnologico 
-
-Pretende captar una forma ideologica acerca de las relaciones entre CTS, genera un imaginario pregnante que infunde un quietismo en la ciudadania, _"si asi es asi debe ser"_ dejar de lado _"otro mundo posible"_.
+> **Determinismo tecnologico** Pretende captar una forma ideologica acerca de las relaciones entre CTS, genera un imaginario pregnante que infunde un quietismo en la ciudadania, _"si asi es asi debe ser"_ dejar de lado _"otro mundo posible"_.
 
 ## Reflexividad
 
-facultad cognitiva, indagacion y analisis de lo que hacemos. _La modernidad reflexiva_ implica un momento especifico de las sociedades actuales. El cuestionamiento por parte del estado, la empresa y la sociedad civil. 
-
-podemos decir, la actividad cientifica, tecnologica e ingenieril se han vuelto mas reflexivas respecto de sus propias condiciones de produccion y apropiacion.
-
+facultad cognitiva, indagacion y analisis de lo que hacemos. _La modernidad reflexiva_ implica un momento especifico de las sociedades actuales. El cuestionamiento por parte del estado, la empresa y la sociedad civil. podemos decir, la actividad cientifica, tecnologica e ingenieril se han vuelto mas reflexivas respecto de sus propias condiciones de produccion y apropiacion.
 ~~~ markdown
 **Dominick Vink** en las facultades se introducen elementos de formacion de ciencias sociales. se cree que un poco de epistemologia es suficiente para educar a los jovenes cientificos; con un poco de etica bastara para afrontar los problemas sociales.
 ~~~
-
 resultando ineficientes, haciendo evidente la necesidad de una formacion socio-cientifica efectiva.
 
 La moderinidad reflexiva traslado hacia los individuos los atributos que antes apostaban las instituciones.
@@ -701,19 +538,11 @@ La moderinidad reflexiva traslado hacia los individuos los atributos que antes a
 **Dubet** _"los profecionales deben construir por si mismos sus relaciones sociales con los usuarios"_
 ~~~
 
-### El contenido de la reflexivilidad
+### El contenido de la reflexividad
 
-la reflexividad como principio de produccion de las relaciones sociales.
+La reflexividad como principio de produccion de las relaciones sociales. La CTS implica un contenido de reflexividad en las practicas profecionales. **Responsabilidad social**, una cuestion de etica y una cuestion de politica.
 
-la CTS implica un contenido de reflexivilidad en las practicas profecionales. **Responsabilidad social**, una cuestion de etica y una cuestion de politica.
-
-### **Althusser**:
-
-El mayo frances, introduce la filosofia para cientificos, la espereciencia real de la practiva cientifica y la remodelizacion de la ciencia. Invitando a preguntarce:
-- ¿puede haber una estrategia y una tactica para la investigacion?
-- ¿puede haber una direccion para la investigacion?
-- ¿puede dirigice o por el contrario debe ser libre?
-- etc
+El mayo frances, introduce la filosofia para cientificos, la espereciencia real de la practiva cientifica y la remodelizacion de la ciencia. Invitando a reflexionar sobre la ciencia y sus mecanismos.
 
 pudiendoce caracterizarce en:
 - problemas internos de cada ciencia.
@@ -721,52 +550,37 @@ pudiendoce caracterizarce en:
 - problemas producidos por el surgimento de nuevas ciencias.
 - problemas de la zona fronterizas.
 
-Luego plantea a que estas adquieran un caracter global como en importancia social. Los procesos de reflexivilidad se independizan de aquellos procesos sociales que la produjeron.
+Luego plantea a que estas adquieran un caracter global como en importancia social. Los procesos de reflexividad se independizan de aquellos procesos sociales que la produjeron.
 
-Maquinaria social independientes de los cientificos, tecnologos e ingenieros. Sin embargo, la sociedad lo plantea como recursos utiles para que los participantes pueden tener control de las relaciones sociales en las que intervienen.
+Una maquinaria social independientes de los cientificos, tecnologos e ingenieros. Sin embargo, la sociedad lo plantea como recursos utiles para que los participantes pueden tener control de las relaciones sociales en las que intervienen.
 
 ## La critica
 
 La critica es posible cuando hay desacuerdo o disidencia, la critica se posiciona en esa disidencia.
 
-La critica es la operacion reflexica por exelencia, y la educuaion critica solo es posible en esos terminos. 
+La critica es la operacion reflexiva por exelencia, y la educuaion critica solo es posible en esos terminos. 
 
 **fuentes de indagacion** experiencia desagradable que sucita la queja y no cualquiera, ya que necesita un apoyo teorico y una retorica argumentativa.
 
 La critica posee dos niveles
-
 - nivel primario: el ambito de las emociones.
 - nivel secundario: reflexivo, teorico, argumentativo.
-
 ~~~ markdown
 **Boltanski y Chiapello** la critica se plantea en dos cordenadas, aquello que denuncia y la virulencia con la que se la plantea
 ~~~
+Implicando la CTS como asignatura que pone en la reflexividad la movilizacion contextual y refinada de conceptos (la posibilidad de articulacion narrativa), en la transformacion del mundo.
 
-Emancipacion, la critica como momento de construccion de un proceso emancipatorio.
+## Mas terminos a considerar
 
-CTS como asignatura pone en la reflexividad la movilizacion contextual y refinada de conceptos (la posibilidad de articulacion narrativa), implicando la transformacion del mundo.
+> **Racionalidad instrumental** La racionalidad en la modernidad se volvio una filosofia fundamental. Concepto que identifica las valuaciones que los humanos hacemos, en sentido descriptivo y en caracter normativo. La racionalidad de las creencais y en general al conocimiento se llama racionalidad epistemica o teoriaca. _Racionalidad practica_, vinculada a la accion. Generalmente la tecnologia, la filosofia cuestiona esta mirada.
 
-## Mas conceptos
-
-### Racionalidad instrumental
-
-La racionalidad en la modernidad se volvio una filosofia fundamental.
-
-Concepto que identifica las valuaciones que los humanos hacemos, en sentido descriptivo y en caracter normativo. La racionalidad de las creencais y en general al conocimiento se llama racionalidad epistemica o teoriaca
-
-Racionalidad practica, vinculada a la accion. Generalmente la tecnologia, la filosofia cuestiona esta mirada.
-
-### Democracia radical
-
-Surge de los movimientos sociales libertariosque toman auge en los 70's. Los activismos CTS plantean formas de democracia radical, una critica a la autoridad de la ciencia, la tecnologia y los expertos. Una radicalizacion de las instituciones por donde circulan las decisiones sociales en estas materias.
+> **Democracia radical** Surge de los movimientos sociales libertariosque toman auge en los 70's. Los activismos CTS plantean formas de democracia radical, una critica a la autoridad de la ciencia, la tecnologia y los expertos. Una radicalizacion de las instituciones por donde circulan las decisiones sociales en estas materias.
 
 ---
 
 # A que llamamos sociedad
 
-Tiene diferentes consideraciones, que entran en disputas. La principal es si es una cosa o si solo existen los individuos que la hacen.
-
-En la materia identificamos a la sociedad como una entidad (cosa) que es irreducible a los agentes sociales que la conforman.
+Tiene diferentes consideraciones, que entran en disputas. La principal es si es una cosa o si solo existen los individuos que la hacen. En la materia identificamos a la sociedad como una entidad (cosa) que es irreducible a los agentes sociales que la conforman.
 
 _"hay cosas que existen solo porque creemos que existen"_.
 
@@ -786,9 +600,7 @@ Entender la sociedad como un espacio establecido a partir de relaciones de:
 
 ### Relaciones Politicas
 
-Las relaciones de poder son aquellas que hacen al gobierno y la constitucion de un orden social. Produciendo instituciones especificas (EL ESTADO).
-
-Organizan gran parte de las actividades politicas.
+Las relaciones de poder son aquellas que hacen al gobierno y la constitucion de un orden social. Produciendo instituciones especificas (EL ESTADO). Organizan gran parte de las actividades politicas.
 
 ### Relaciones de experiencia
 
@@ -853,12 +665,6 @@ Siendo una posicon determinista (determinismo tecnologico). donde podemos pensar
 las instituciones educativas estan asociadas a las tecnologias.
 
 el cambio de los hombres por las tecnologias.
-
-## La teoria de la sociedad del conocimiento
-
-El principal autor en analisis de esta teoria es Stehr. 
-
-A partir de las formulaciones de la sociedad post-industrial, surgieron mas teorias, una de ellas es la **sociedad del conocimiento**, que pretende ofrecer una comprencion del mundo, a traves de los principios epistemicos.
 
 ## La revuelta democratica
 
