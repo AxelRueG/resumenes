@@ -735,3 +735,13 @@ El planteamiento de que vivimos en dos comunidades: la local y la de razonamient
 El activismo cientifico-tecnologico-profesional, surge de pensar que **todo es politico**, toda actividad humana implusa el concenso o disenso, incluyendo a la naturaleza. La CTI, se ve politizada por los artefactos que producen y su impacto en la sociedad, asumiendo una agencia social. Junto a los cti (el cientifico revelde), que disrumpen con los modelos clasicos, implicando hacer _ciencia politizada_.
 
 **Activismo Epistemico** es el que produce y moviliza el conocimiento. _"el desarrollo de conceptos sofisticados de como entender los problemas"_
+
+---
+
+Examen julio:
+- el problema de convertirnos en sujeto de conocimiento. 
+- biejker, el rol de la socieda y las mujeres en el desarrollo de la vivienda social.
+- helha nowotny la asincronia.
+- sociedad del conocimiento, y su papel con la democracia.
+- porque podemos pensar la informatica como una tecnologia mas que como una ciencia.
+- el contecto historico de la informatica
