@@ -1,26 +1,29 @@
 # Helga Nowotny
 
-> _Es presidenta del Consejo Europeo de Investigación, profesora emérita en Estudios Sociales de Ciencia en ETH Zurich, Suiza y presidenta de la Junta del Consejo Científico de la Universidad de Viena, Austria. Ha sido presidenta del Comité Permanente para las Ciencias Sociales de la Fundación de Ciencia Europea. Sus principales intereses de investigación incluyen los estudios sociales de la ciencia y la tecnología; la política de innovación científica y tecnológica; así como el tiempo social._
+> Es presidenta del Consejo Europeo de Investigación, profesora en Estudios Sociales de Ciencia en Zurich, Suiza. Sus principales intereses de investigación incluyen: 
+> - los estudios sociales de la ciencia y la tecnología; 
+> - la política de innovación científica y tecnológica; 
+> - así como el tiempo social.
 
 ## Salirce de la ciencia es salir de sincronia
 
 ### El mundo ordenado de la ciencia vs el caos del mundo "real"
 
-Salir de la ciencia significa, dejar atras un mundo de certezas cientificas para abrazar el caos del mundo "real". La division que separa las formas espceificadas de racionalidad cientifica y la racionalidad social, puede ser mas pequenio de lo que se pensaba.
+Salir de la ciencia significa, abrazar el caos del mundo "real". La division entre la racionalidad cientifica y la racionalidad social, puede ser mas pequenio de lo que se pensaba.
 
-Cuando la ciencia moderna se institucionalizo, por promera vez. Tuvo que ser protegida de la interferencia arbitraria de las autoidades religiosas y politicas, y se le otorgo una autonomia relativa. En las democracias contemporaneas, los ciudadanos exigen reponsabilidad a todas las instituciones, incluyendo a las organizaciones cientificas.
+Cuando la ciencia moderna se institucionalizo, se le otorgo una autonomia relativa _(protegida de la interferencia religiosas y politicas)_. En las democracias contemporaneas, los ciudadanos exigen reponsabilidad a todas las instituciones _(incluyendo a las cientificas)_.
 
-La sociedad ha aprendido a 'contestarle a la ciencia' y esta habria bien en escuchar. los asuntos polemicos se someten al debate publico, y las sociedades pluralistas deben esforzarse por llegar a consensos viables. Esto significa que la ciencia y la sociedad se han entrelazado crecientemente. **La ciencia se ha vuelto parte integral de la sociedad**.
+La sociedad ha aprendido a 'contestarle a la ciencia'. los asuntos polemicos se someten al debate publico, y las sociedades deben esforzarse por llegar a consensos viables. Esto significa que la ciencia y la sociedad se han entrelazado crecientemente. **La ciencia se ha vuelto parte integral de la sociedad**.
 
-Sin embargo algunas diferencias persisten entre las dos. La comunidad cientifica tiene sus propias formas de trabajar, y tipicamente opera en una escala de tiempo larga, mientras que los ciclos electorales imponen un horizonte de corto plazo en el mundo politico. _"Los diseniadores de politicas publicas estan de manera continua con la presion inmediata de tomar acciones, y esperan que la ciencia les provea de soluciones ya hechasi"_, (mientras que los investigadores buscan definir nuevas preguntas de investigacion.
+Sin embargo persisten las diferencias entre las dos. La comunidad cientifica tiene sus propias formas de trabajar operando en una escala de tiempo larga, mientras que los ciclos electorales imponen un horizonte de corto plazo en el mundo politico. 
 
-No obstante, algo dramaticamente ocurre, en su vision del un futuro excesivamente tecnocratica se produjeron resultados decepcionantes. La mayor parte de los grandes asuntos de hoy no pueden ser categorizados claramente como parte del orden natural o el orden social. Son resultados de interdependencias mutuas y complejas. 
+> _"Los diseniadores de politicas publicas estan de manera continua con la presion inmediata de tomar acciones, y speran que la ciencia les provea de soluciones ya hechas, mientras que los investigadores buscan definir nuevas preguntas de investigacion."_, 
 
-Tipicamente emergen por medio de un proceso de **coproduccion** que no privilegia ni a las ciencias sociales ni a las naturales. 
-- El cambio climatico es un ejemplo _"un fenomeno natural causado, al menos parcialmente por la intervencion humana en el entorno natural"_. La humanidad ha alcanzado los limites planetarios, en terminos numericos y de recursos, y debe tomar decisiones dificiles. Las escalas de espacio y tiempo propias de la naturaleza deben ser reconceptualizadas para acomodarlas a las dimensiones temporales y espaciales humanas.
-- Otro ejemplo son las ciencias de la vida, las cuales crean rutinariamente nuevas entidades a nivel molecular. El entendimiento de la vida no puede separarse de la intervencion humana en el laboratorio, como en el caso de la mediciona regenerativa y los nuevos sistemas para la produccion, control de calidad, almacenamiento, empaquetaje y distribucion de celulas vivas.
+La mayor parte de los grandes asuntos de hoy no pueden ser categorizados claramente como parte del orden natural o el orden social. Son resultados de interdependencias mutuas y complejas. Tipicamente emergen por medio de un proceso de **coproduccion** que no privilegia ni a las ciencias sociales ni a las naturales. 
+- El cambio climatico es un ejemplo de un fenomeno natural causado, al menos parcialmente por la intervencion humana en el entorno natural. La humanidad ha alcanzado los limites planetarios, y debe tomar decisiones dificiles. _Las escalas de espacio y tiempo propias de la naturaleza deben ser reconceptualizadas para acomodarlas a las dimensiones temporales y espaciales humanas._
+- Otro ejemplo son las ciencias de la vida, las cuales crean rutinariamente nuevas entidades a nivel molecular. El entendimiento de la vida no puede separarse de la intervencion humana en el laboratorio.
 
-Salirnos de la ciencia nos puede dejar fuera de sincronia, pero la razon mas profunda para sentirnos desconectados, surge de un mundo coproducido, en el que un numero creciente de entidades y fenomenos creados artificialmente pertenecen tanto al mundo ordenado de la ciencia como al caos del mundo politico y social.
+Salirnos de la ciencia nos puede dejar fuera de sincronia, pero la razon mas profunda para sentirnos desconectados, surge de **un mundo coproducido**, en el que un numero creciente de entidades y fenomenos creados artificialmente pertenecen tanto al mundo ordenado de la ciencia como al caos del mundo politico y social.
 
 ### Agotando la ciencia ¿se puede almacenar anticipadamente el conocimiento?
 
