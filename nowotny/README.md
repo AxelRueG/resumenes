@@ -23,23 +23,25 @@ La mayor parte de los grandes asuntos de hoy no pueden ser categorizados clarame
 - El cambio climatico es un ejemplo de un fenomeno natural causado, al menos parcialmente por la intervencion humana en el entorno natural. La humanidad ha alcanzado los limites planetarios, y debe tomar decisiones dificiles. _Las escalas de espacio y tiempo propias de la naturaleza deben ser reconceptualizadas para acomodarlas a las dimensiones temporales y espaciales humanas._
 - Otro ejemplo son las ciencias de la vida, las cuales crean rutinariamente nuevas entidades a nivel molecular. El entendimiento de la vida no puede separarse de la intervencion humana en el laboratorio.
 
-Salirnos de la ciencia nos puede dejar fuera de sincronia, pero la razon mas profunda para sentirnos desconectados, surge de **un mundo coproducido**, en el que un numero creciente de entidades y fenomenos creados artificialmente pertenecen tanto al mundo ordenado de la ciencia como al caos del mundo politico y social.
+> Salirnos de la ciencia nos puede dejar fuera de sincronia, pero la razon mas profunda para sentirnos desconectados, surge de **un mundo coproducido**, en el que un numero creciente de entidades y fenomenos creados artificialmente pertenecen tanto al mundo ordenado de la ciencia como al caos del mundo politico y social.
 
 ### Agotando la ciencia ¿se puede almacenar anticipadamente el conocimiento?
 
-Esta seccion se refiere a las estrategias que son necesarias para adaptarce a un mundo corpoduccido.
+Nos referimos a las estrategias que son necesarias para adaptarce a un mundo corpoduccido.
 - Se nos agota el conocimiento cientifico frente a las complejidades actuales?
 - Se deberia reorganizar la produccion de conocimiento para almacenarlo anticipadamente, o para producirlo en el momento justo, de manera que este disponible cuando se necesite?
 
-_Estas aspiraciones suenan conocidas como un eco de los suenios de la ilustracion. La busqueda de relevancia en las ciencias sociales triunfo a mediados del siglo XX, celebrando la planeacion, la ingenieria social y la prospectiva_. Su ultima manifestacion es la creencia en las politicas sustentadas en evidencia. No obstante, a veces, es dificil discernir que tipo de evidencia cuenta en una situacion dada, cual evidencia debe ser utilizada, y para que objetivo.
+La creencia en las politicas sustentadas en evidencia _(manifestacion de aspiraciones del siglo pasado)_. No obstante, a veces, es dificil discernir que tipo de evidencia cuenta en una situacion dada, cual evidencia debe ser utilizada, y para que objetivo.
 
-En cierta medida, el conocimiento puede prepararse anticipadamente. Para ser utilizable cuando se le requiere, la produccion de conocimiento debe tomar en cuenta el contexto de su aplicacion, combinando las dimensiones cientificas y tecnologicas con las politicas, regulatorias y financieras. Los elementos culturales y normativos, asi como el tiempo, desempenian un papel importante. Los procesos evolucionan a diferentes ritmos y pueden quedar atorados en una especie de carrera armamentista. 
+En cierta medida, el conocimiento puede prepararse anticipadamente. **Para ser utilizable cuando se le requiere, la produccion de conocimiento debe tomar en cuenta el contexto de su aplicacion**, _(combinando las dimensiones cientificas y tecnologicas con las politicas, regulatorias y financieras)_. 
+
+Los elementos culturales y normativos, asi como el tiempo, desempenian un papel importante. Los procesos evolucionan a diferentes ritmos y pueden quedar atorados en una especie de carrera armamentista. 
 - Podran la dinamica del cambio climatico rebasar las politicas que se desarrollan para contrarestarla? 
 - Funcionaran a tiempo los programas de reformas institucionales, economicas y politicas, desarrollados para combatir la crisis financiera y economica?
 
-**Estar fuera de sincronia tiene que ver con la urgencia y con los diferentes ritmos de los diferentes actores**, desde el momento en que los acontecimientos comienzan a desenvolverse hasta el momento en que las politicas se vuelven efectivas. Estas son normalmente situaciones en las que el conocimiento cientifico es incierto, y mientras tanto abundan las pasiones y los intereses sobre las acciones que deben tomarse. La vision de un futuro controlable ha sido reemplazada quizas irreversiblemente, por futuros que aparecen mas fragiles que nunca antes. Y aun asi el deseo de prepararse para lo impredecible persiste.
+**Estar fuera de sincronia tiene que ver con la urgencia y con los diferentes ritmos de los diferentes actores**, _(desde el momento en que los acontecimientos comienzan a desenvolverse hasta el momento en que las politicas se vuelven efectivas)_. Estas son normalmente situaciones en las que el conocimiento cientifico es incierto, y abundan los intereses sobre las acciones que deben tomarse. La vision de un futuro controlable ha sido reemplazada quizas irreversiblemente, por futuros que aparecen mas fragiles que nunca antes. Y aun asi el deseo de prepararse para lo impredecible persiste.
 
-La reorganizacion de la produccion del conocimiento en las ciencias sociales para ayudar a la socieda a estar mejor preparada solo puede ser exitosa si aceptamos que la mayoria de los usos del conocimiento no son predecibles y que los contextos son importantes. Las circunstancias historicas ejercen su propio peso e influencia. De otra forma, el conocimiento almacenado corre el riesgo de volverse desactualizado.
+> La reorganizacion de la produccion del conocimiento en las ciencias sociales para ayudar a la socieda a estar mejor preparada solo puede ser exitosa si aceptamos que la mayoria de los usos del conocimiento no son predecibles y que los contextos son importantes. Las circunstancias historicas ejercen su propio peso e influencia. De otra forma, el conocimiento almacenado corre el riesgo de volverse desactualizado.
 
 ### Las ciencias sociales y su capacidad para tratar cuestiones de política
 
