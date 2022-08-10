@@ -272,10 +272,10 @@ pero no resistieron a la dictadura, a la vuelta de la democracia el panorama est
 El software no es entendido solo en terminos de un artefacto tecnologico, tambien en terminos de un artefacto diseñado. Esto nos hacer pensar el software como un movimiento social. Un colectivo social que toma el desarrollo del software con cierto _interes_, que implica valores:
 - politico
 - tecnologico
-  - transparencia 
-  - libertad 
-  - eficacia
-  - autonomia
+- transparencia 
+- libertad 
+- eficacia
+- autonomia
 - cultural
 - etc
 
@@ -409,47 +409,52 @@ Buscamos como objetivo, en la materia, poner a los estudiantes en contacto con:
 
 > **Gobierno** un aspecto de la actividad politica. dirigir o regir sobre uno o sobre los otros, la idea moderna de facultad que ejerce tanto sobre el hombre como no humano.
 
-## CTS en el mundo actual
+## CTI en el mundo actual
+
+_"hay una dificultad inherente a la empresa de hacer inteligible el mundo
+que vivimos y que esa dificultad tiene diferentes raices o fuentes"_
 
 ### raices epistemicas
 
-la dificultad que entraña el convertirse en conocedores del mundo, esta dificultad fue enfrentada en cuatro dimenciones
-
-1. las practicas epistemicas perse, reglas y procedimientos explisitamentes definidas, objetivos y metas explicitas de igual forma. "resolucion cientifica -> una nueva manera de conoceer"
-2. la indagacion constante y sistematica del **conocimiento genuino** acerca del mundo (¿como se lo obtiene?, ¿su alcance?, ¿como se lo presenta?).
-3. la constitucion de una pedagogia que organice la transmision del conocimiento. (pedagogia en el aspecto social, como se distribuye, como se preserva el conocimiento).
-4. constitucion de instituciones sociales, analizar y organizar la produccion de conocimiento genuino.
+esta entraña la dificultad de convertirse en conocedores del mundo, pudiendo ser enfrentada en cuatro dimenciones:
+1. las constitucion de practicas epistemicas propiamente dichas (reglas y procedimientos explisitamentes definidas con objetivos y metas explicitas). "resolucion cientifica -> una nueva manera de conoceer a partir de nuevos ideales"
+2. la constitucion de una indagacion constante y sistematica a cerca de que esel **conocimiento genuino** acerca del mundo (¿como se lo obtiene?, ¿su alcance?, ¿como se lo presenta?).
+3. la constitucion de una pedagogia que organice la transmision del conocimiento. (pedagogia en un aspecto social, como se distribuye, como se preserva el conocimiento).
+4. constitucion de instituciones sociales que puedan analizar y organizar la produccion de conocimiento genuino.
 
 La modernidad siglo XVI, segun algunos filosofos, se coloco el conocimiento como el gran problema filosofico y politicas de esta nueva sociedad.
 
 ~~~ markdown
-**Bjorn Wittrock** plantea que la modernidad produjo un cambio espistemico fundamental
+**Bjorn Wittrock** plantea que la modernidad produjo un cambio espistemico fundamental, que requeria un cambio pedagogico.
 ~~~
 ~~~ markdown
 **Brian Barnes** Para que la ciencia pudiera servir como base cultural de toda una forma de vida se la tenia que considerar producto de la educacion. No podia ser un simple medio para un fin, sino que habia de ser concebida en terminos de bienes intrinsecos.
 ~~~
 
-Esto implica la ciencia como un dispositivo de verdad. Surgiendo (a mediados del siglo XIX) el concepto de una **unversidad cientifica** que establece un vinculo fuerte enseña y forma cuadros de investigacion. La consolidacion de las disiplinas meta-teoricas (que tenial al concoimiento y al conocimiento cientifico como su objeto de investigacion).
+Esto implica la ciencia como un dispositivo de verdad. Surgiendo (a mediados del siglo XIX) el concepto de una **unversidad cientifica** que establece un vinculo fuerte enseñaza y formacion de cuadros para la investigacion. La consolidacion de las disiplinas meta-teoricas (que tenial al concoimiento y al conocimiento cientifico como su objeto de investigacion).
 
 CTS es una respuesta a esta nueva configuracion social, plantea ver la _"responsabilidad social del ingeniero"_. planteando un nuevo proyecto pedagogico.
 
 Como lidiar con el problema de como nos contituimos como conocedores del mundo:
-- una dimencion vinculada a las practicas epistemicas
-- una dimencion meta-teoriaca (nuevas concepciones de la naturaleza)
+- una dimencion vinculada a las practicas epistemicas (nuevos modos de hacer ciencia)
+- una dimencion meta-teoriaca (nuevas concepciones de la naturalezas cti)
 - una dimencion pedagogica (nuevas expectativas del papel que juegan las CTI en el mundo)
 - dimencion institucional (universidad, agencias estatales y foros hibridos)
-- dimencion polita del conocimiento
+- dimencion polita del conocimiento (supone un debate publico aquello que hace a un sujeto epistemico propiamente dicho)
+
+Estas raices espistemicas de nuestra compresion del mundo son parte de la configuracion del munco y como lo epistemico atraviesa las distintas esferas de los mundos sociales, naturales y artificiales.
 
 ### raices experimentales 
 
-La hipotesis, implica la dificultad de explicar el mundo y lo que conlleva. Estas dificultades tienen diferentes raices o fuentes, una raiz es la _exprencial_.
+Esta vinculada con la epistemica, pero tiene una especificidad. La experiencia indica que los humanos estamos expuestos al acontecer _(del mundo)_, y las respuestas que elavoramos con dicho acontecer. Implicando una apertura con el mundo y una apertura con nosotros mismos que conforman.
 
-La experiencia indica que los humanos estamos expuestos al acontecer, y las respuestas que elavoramos con dicho acontecer. Implicando una apertura con el mundo y una apertura con nosotros mismos que conforman.
+La esperiencia ocurre en un doble registro: una apertura sensorial (un lazo con el mundo); una apertura con nosotros mismos.
 
 ~~~ markdown
-**Gyorgy Lukacs** y **Walter Benjamin** plantearon el problema de esta doble condicion con la experimentacion: 
-- una desconeccion (con nosotros y con el mundo)
-- reificacion (pensar al mundo y lo que lo compone como una mercancia)
+**Gyorgy Lukacs** y **Walter Benjamin** plantearon el problema de una doble desconexion: 
+- con nosotros
+- con el mundo en el que vivimos y ayudamos a construir
+Ademas del problema de la reificacion (pensar al mundo y lo que lo compone como una mercancia)
 ~~~ 
 ~~~ markdown
 **Michell Callon** plantea un ingeniero sociologo que comprende las condiciones de materialidad del mundo y su produccion.
@@ -463,7 +468,6 @@ _"debemos conocer y articular el mundo material al que estamos expuestos"_.
 ## La presentacion normativa del mundo
 
 Podemos acceder al mundo a partir de la **normativa**, como deberia ser el mundo (no implicando una separacion descriptiva).
-
 ~~~ markdown
 **Oscar Versavsky** CTS implica el deseo de vivir en una sociedad mejor y hacer algo para que eso tenga unas posibilidades de ocurrir
 ~~~
@@ -736,12 +740,4 @@ El activismo cientifico-tecnologico-profesional, surge de pensar que **todo es p
 
 **Activismo Epistemico** es el que produce y moviliza el conocimiento. _"el desarrollo de conceptos sofisticados de como entender los problemas"_
 
----
 
-Examen julio:
-- el problema de convertirnos en sujeto de conocimiento. 
-- biejker, el rol de la socieda y las mujeres en el desarrollo de la vivienda social.
-- helha nowotny la asincronia.
-- sociedad del conocimiento, y su papel con la democracia.
-- porque podemos pensar la informatica como una tecnologia mas que como una ciencia.
-- el contecto historico de la informatica
