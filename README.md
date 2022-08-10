@@ -444,7 +444,7 @@ Como lidiar con el problema de como nos contituimos como conocedores del mundo:
 
 Estas raices espistemicas de nuestra compresion del mundo son parte de la configuracion del munco y como lo epistemico atraviesa las distintas esferas de los mundos sociales, naturales y artificiales.
 
-### raices experimentales 
+### raices experienciales 
 
 Esta vinculada con la epistemica, pero tiene una especificidad. La experiencia indica que los humanos estamos expuestos al acontecer _(del mundo)_, y las respuestas que elavoramos con dicho acontecer. Implicando una apertura con el mundo y una apertura con nosotros mismos que conforman.
 
