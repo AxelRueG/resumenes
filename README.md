@@ -409,7 +409,7 @@ Buscamos como objetivo, en la materia, poner a los estudiantes en contacto con:
 
 > **Gobierno** un aspecto de la actividad politica. dirigir o regir sobre uno o sobre los otros, la idea moderna de facultad que ejerce tanto sobre el hombre como no humano.
 
-## CTS en el mundo actual
+## CTI en el mundo actual
 
 ### raices epistemicas
 
