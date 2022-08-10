@@ -440,7 +440,7 @@ Como lidiar con el problema de como nos contituimos como conocedores del mundo:
 - dimencion institucional (universidad, agencias estatales y foros hibridos)
 - dimencion polita del conocimiento
 
-### raices experimentales 
+### raices experienciales 
 
 La hipotesis, implica la dificultad de explicar el mundo y lo que conlleva. Estas dificultades tienen diferentes raices o fuentes, una raiz es la _exprencial_.
 
