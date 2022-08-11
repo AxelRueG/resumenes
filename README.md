@@ -75,6 +75,8 @@ Niinilouto, ofresce un esquema donde se muestra que la relacion de la ciencia y 
 
 ## Informatica ¿ciencia o tecnologia?
 
+_Es una debate que se planteo desde sus inicios, pensarla como tecnologia nos posiciona en el lado de la ingenieria_
+
 ~~~ markdown
 **Ana Cuevas**: plantea tener dos grupos de tecnologos
  - Diseñadores: idear solucion.
