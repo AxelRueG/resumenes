@@ -57,11 +57,15 @@ Esto plantea que no solo basta incorporar explicaciones fisicas, sino tambien fu
 
 ## Ciencia y Tecnologia
 
+_Podemos decir que la tecnologia no es una ciencia aplicada._
+
 ~~~ markdown
 **Ilkka NiiNilouto**: plantea que hay dos tipos de ciencias; ciencias que interpretan el mundo y ciencias que cambian al mundo.
 ~~~
 
-Podemos decir que la tecnologia no es una ciencia aplicada. Presta atencion a la **ciencia del diseño** que es parte de la que denomina **ciencia de lo artifical**.
+El conocimiento cientifico presta cada vez mas atencion a "cambiar el mundo". Ilkka presta atencion a la **ciencia del diseño** que es parte de la que denomina **ciencia de lo artifical**.
+
+_Muchas ciencias surgieron de la cientifizacion de profesiones y artes, por via de la mecanizacion y la cientifizacion se constituyeron en "cuerpos sistematicos de reglas"_
 
 Niinilouto, ofresce un esquema donde se muestra que la relacion de la ciencia y la tecnologia no siempre van en e mismo sentido:
 
